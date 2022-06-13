@@ -1,0 +1,539 @@
+2022-06-09 12:29:50.290 -05:00 [INF] Processing for 2022-01-01
+2022-06-09 12:29:50.401 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 12:29:50.402 -05:00 [INF] Preparing client for API
+2022-06-09 12:29:50.457 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 12:29:50.457 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-01-01
+2022-06-09 12:29:53.297 -05:00 [INF] Extraction completed
+2022-06-09 12:32:32.461 -05:00 [INF] Processing for 2022-01-02
+2022-06-09 12:32:32.462 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 12:32:32.463 -05:00 [INF] Preparing client for API
+2022-06-09 12:32:32.464 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 12:32:32.464 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-01-02
+2022-06-09 12:32:34.717 -05:00 [INF] Extraction completed
+2022-06-09 12:33:43.261 -05:00 [INF] Processing for 2022-01-03
+2022-06-09 12:33:43.261 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 12:33:43.261 -05:00 [INF] Preparing client for API
+2022-06-09 12:33:43.262 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 12:33:43.262 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-01-03
+2022-06-09 12:33:45.468 -05:00 [INF] Extraction completed
+2022-06-09 12:34:53.792 -05:00 [INF] Processing for 2022-01-04
+2022-06-09 12:34:53.792 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 12:34:53.793 -05:00 [INF] Preparing client for API
+2022-06-09 12:34:53.794 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 12:34:53.794 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-01-04
+2022-06-09 12:34:56.086 -05:00 [INF] Extraction completed
+2022-06-09 12:36:05.182 -05:00 [INF] Processing for 2022-01-05
+2022-06-09 12:36:05.182 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 12:36:05.183 -05:00 [INF] Preparing client for API
+2022-06-09 12:36:05.183 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 12:36:05.183 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-01-05
+2022-06-09 12:36:07.360 -05:00 [INF] Extraction completed
+2022-06-09 12:37:15.214 -05:00 [INF] Processing for 2022-01-06
+2022-06-09 12:37:15.214 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 12:37:15.215 -05:00 [INF] Preparing client for API
+2022-06-09 12:37:15.216 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 12:37:15.217 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-01-06
+2022-06-09 12:37:17.535 -05:00 [INF] Extraction completed
+2022-06-09 12:38:26.024 -05:00 [INF] Processing for 2022-01-07
+2022-06-09 12:38:26.025 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 12:38:26.027 -05:00 [INF] Preparing client for API
+2022-06-09 12:38:26.027 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 12:38:26.028 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-01-07
+2022-06-09 12:38:28.509 -05:00 [INF] Extraction completed
+2022-06-09 12:39:36.992 -05:00 [INF] Processing for 2022-01-08
+2022-06-09 12:39:36.992 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 12:39:36.994 -05:00 [INF] Preparing client for API
+2022-06-09 12:39:36.995 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 12:39:36.996 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-01-08
+2022-06-09 12:39:39.506 -05:00 [INF] Extraction completed
+2022-06-09 12:40:47.880 -05:00 [INF] Processing for 2022-01-09
+2022-06-09 12:40:47.881 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 12:40:47.882 -05:00 [INF] Preparing client for API
+2022-06-09 12:40:47.882 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 12:40:47.884 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-01-09
+2022-06-09 12:40:50.153 -05:00 [INF] Extraction completed
+2022-06-09 12:41:58.199 -05:00 [INF] Processing for 2022-01-10
+2022-06-09 12:41:58.199 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 12:41:58.200 -05:00 [INF] Preparing client for API
+2022-06-09 12:41:58.201 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 12:41:58.202 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-01-10
+2022-06-09 12:42:00.166 -05:00 [INF] Extraction completed
+2022-06-09 12:43:08.130 -05:00 [INF] Processing for 2022-01-11
+2022-06-09 12:43:08.130 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 12:43:08.132 -05:00 [INF] Preparing client for API
+2022-06-09 12:43:08.132 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 12:43:08.133 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-01-11
+2022-06-09 12:43:10.279 -05:00 [INF] Extraction completed
+2022-06-09 12:44:17.965 -05:00 [INF] Processing for 2022-01-12
+2022-06-09 12:44:17.966 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 12:44:17.968 -05:00 [INF] Preparing client for API
+2022-06-09 12:44:17.970 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 12:44:17.970 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-01-12
+2022-06-09 12:44:20.407 -05:00 [INF] Extraction completed
+2022-06-09 12:57:31.193 -05:00 [INF] Processing for 2022-01-01
+2022-06-09 12:57:31.275 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 12:57:31.275 -05:00 [INF] Preparing client for API
+2022-06-09 12:57:31.324 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 12:57:31.324 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-01-01
+2022-06-09 12:57:34.122 -05:00 [INF] Extraction completed
+2022-06-09 12:59:12.525 -05:00 [INF] Processing for 2022-01-01
+2022-06-09 12:59:12.595 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 12:59:12.595 -05:00 [INF] Preparing client for API
+2022-06-09 12:59:12.615 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 12:59:12.616 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-01-01
+2022-06-09 12:59:15.238 -05:00 [INF] Extraction completed
+2022-06-09 13:00:25.208 -05:00 [INF] Processing for 2022-01-02
+2022-06-09 13:00:25.208 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:00:25.209 -05:00 [INF] Preparing client for API
+2022-06-09 13:00:25.209 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:00:25.209 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-01-02
+2022-06-09 13:00:27.756 -05:00 [INF] Extraction completed
+2022-06-09 13:01:01.860 -05:00 [INF] Processing for 2022-02-01
+2022-06-09 13:01:01.919 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:01:01.919 -05:00 [INF] Preparing client for API
+2022-06-09 13:01:01.939 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:01:01.939 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-01
+2022-06-09 13:01:04.776 -05:00 [INF] Extraction completed
+2022-06-09 13:02:59.561 -05:00 [ERR] Database connection failed
+2022-06-09 13:03:25.223 -05:00 [INF] Processing for 2022-02-01
+2022-06-09 13:03:25.299 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:03:25.300 -05:00 [INF] Preparing client for API
+2022-06-09 13:03:25.329 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:03:25.330 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-01
+2022-06-09 13:03:27.935 -05:00 [INF] Extraction completed
+2022-06-09 13:04:54.311 -05:00 [INF] Processing for 2022-02-01
+2022-06-09 13:04:54.378 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:04:54.378 -05:00 [INF] Preparing client for API
+2022-06-09 13:04:54.400 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:04:54.400 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-01
+2022-06-09 13:04:56.933 -05:00 [INF] Extraction completed
+2022-06-09 13:07:46.711 -05:00 [INF] Processing for 2022-02-01
+2022-06-09 13:07:46.773 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:07:46.774 -05:00 [INF] Preparing client for API
+2022-06-09 13:07:46.817 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:07:46.818 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-01
+2022-06-09 13:07:49.401 -05:00 [INF] Extraction completed
+2022-06-09 13:15:09.939 -05:00 [INF] Processing for 2022-02-01
+2022-06-09 13:15:10.016 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:15:10.017 -05:00 [INF] Preparing client for API
+2022-06-09 13:15:10.039 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:15:10.039 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-01
+2022-06-09 13:15:13.324 -05:00 [INF] Extraction completed
+2022-06-09 13:18:14.641 -05:00 [ERR] Database connection failed
+2022-06-09 13:19:32.549 -05:00 [INF] Processing for 2022-02-01
+2022-06-09 13:19:32.624 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:19:32.624 -05:00 [INF] Preparing client for API
+2022-06-09 13:19:32.646 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:19:32.646 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-01
+2022-06-09 13:19:36.308 -05:00 [INF] Extraction completed
+2022-06-09 13:21:43.643 -05:00 [INF] Order 1006393502 , Item TM-220054 Processed succesfully
+2022-06-09 13:21:43.852 -05:00 [INF] Order 1006393502 , Item TM-220043 Processed succesfully
+2022-06-09 13:21:44.062 -05:00 [INF] Order 1006393502 , Item TM-220049 Processed succesfully
+2022-06-09 13:21:44.273 -05:00 [INF] Order 1006393502 , Item TM-220045 Processed succesfully
+2022-06-09 13:21:44.483 -05:00 [INF] Order 1006393502 , Item TM-220033 Processed succesfully
+2022-06-09 13:21:49.664 -05:00 [INF] Order 1006393511 , Item TM-219000 Processed succesfully
+2022-06-09 13:21:49.874 -05:00 [INF] Order 1006393511 , Item TM-220052 Processed succesfully
+2022-06-09 13:21:50.085 -05:00 [INF] Order 1006393511 , Item TM-220046 Processed succesfully
+2022-06-09 13:22:42.607 -05:00 [INF] Order 1006346016 , Item 32642 Processed succesfully
+2022-06-09 13:22:48.274 -05:00 [INF] Order 1006350151 , Item TM-219025 Processed succesfully
+2022-06-09 13:22:48.483 -05:00 [INF] Order 1006350151 , Item TM-219019 Processed succesfully
+2022-06-09 13:22:49.365 -05:00 [INF] Order 1006392783 , Item 29428 Processed succesfully
+2022-06-09 13:23:24.955 -05:00 [INF] Order 1006393397 , Item 36958 Processed succesfully
+2022-06-09 13:23:25.972 -05:00 [INF] Order 1006393522 , Item 34030 Processed succesfully
+2022-06-09 13:23:27.121 -05:00 [INF] Order 1006393525 , Item TM-220125 Processed succesfully
+2022-06-09 13:23:27.361 -05:00 [INF] Order 1006393525 , Item TM-220135 Processed succesfully
+2022-06-09 13:23:27.675 -05:00 [INF] Order 1006393525 , Item TM-220036 Processed succesfully
+2022-06-09 13:23:27.945 -05:00 [INF] Order 1006393525 , Item TM-220044 Processed succesfully
+2022-06-09 13:23:28.182 -05:00 [INF] Order 1006393525 , Item TM-219028 Processed succesfully
+2022-06-09 13:23:29.224 -05:00 [INF] Order 1006393548 , Item 36683 Processed succesfully
+2022-06-09 13:23:30.130 -05:00 [INF] Order 1006393550 , Item TM-220128 Processed succesfully
+2022-06-09 13:23:30.365 -05:00 [INF] Order 1006393550 , Item TM-219009 Processed succesfully
+2022-06-09 13:23:30.678 -05:00 [INF] Order 1006393550 , Item TM-219003 Processed succesfully
+2022-06-09 13:23:31.536 -05:00 [INF] Order 1006393568 , Item TM-220044 Processed succesfully
+2022-06-09 13:23:31.874 -05:00 [INF] Order 1006393568 , Item TM-220051 Processed succesfully
+2022-06-09 13:23:32.322 -05:00 [INF] Order 1006393568 , Item TM-219011 Processed succesfully
+2022-06-09 13:23:32.545 -05:00 [INF] Order 1006393568 , Item TM-220054 Processed succesfully
+2022-06-09 13:23:33.537 -05:00 [INF] Order 1006393580 , Item TM-220125 Processed succesfully
+2022-06-09 13:23:33.745 -05:00 [INF] Order 1006393580 , Item TM-220036 Processed succesfully
+2022-06-09 13:23:34.086 -05:00 [INF] Order 1006393580 , Item TM-220135 Processed succesfully
+2022-06-09 13:23:34.325 -05:00 [INF] Order 1006393580 , Item TM-220040 Processed succesfully
+2022-06-09 13:23:34.568 -05:00 [INF] Order 1006393580 , Item TM-220030 Processed succesfully
+2022-06-09 13:23:34.792 -05:00 [INF] Order 1006393580 , Item TM-220130 Processed succesfully
+2022-06-09 13:23:35.020 -05:00 [INF] Order 1006393580 , Item TM-220033 Processed succesfully
+2022-06-09 13:23:36.971 -05:00 [INF] Order 1006393588 , Item TM-220028 Processed succesfully
+2022-06-09 13:23:37.181 -05:00 [INF] Order 1006393588 , Item TM-219028 Processed succesfully
+2022-06-09 13:23:37.390 -05:00 [INF] Order 1006393588 , Item TM-220051 Processed succesfully
+2022-06-09 13:23:37.615 -05:00 [INF] Order 1006393588 , Item TM-220132 Processed succesfully
+2022-06-09 13:23:37.835 -05:00 [INF] Order 1006393588 , Item TM-220128 Processed succesfully
+2022-06-09 13:23:39.174 -05:00 [INF] Order 1006393589 , Item TM-220043 Processed succesfully
+2022-06-09 13:23:39.409 -05:00 [INF] Order 1006393589 , Item TM-219018 Processed succesfully
+2022-06-09 13:23:39.619 -05:00 [INF] Order 1006393589 , Item TM-219025 Processed succesfully
+2022-06-09 13:23:39.830 -05:00 [INF] Order 1006393589 , Item TM-219028 Processed succesfully
+2022-06-09 13:23:40.038 -05:00 [INF] Order 1006393589 , Item TM-220053 Processed succesfully
+2022-06-09 13:23:40.906 -05:00 [INF] Order 1006393592 , Item 24682 Processed succesfully
+2022-06-09 13:23:41.803 -05:00 [INF] Order 1006393596 , Item TM-220132 Processed succesfully
+2022-06-09 13:23:42.661 -05:00 [INF] Order 1006393602 , Item TM-220133 Processed succesfully
+2022-06-09 13:23:42.870 -05:00 [INF] Order 1006393602 , Item TM-219003 Processed succesfully
+2022-06-09 13:23:43.079 -05:00 [INF] Order 1006393602 , Item TM-219012 Processed succesfully
+2022-06-09 13:23:43.288 -05:00 [INF] Order 1006393602 , Item TM-219018 Processed succesfully
+2022-06-09 13:23:44.122 -05:00 [INF] Order 1006393622 , Item TM-220137 Processed succesfully
+2022-06-09 13:23:44.331 -05:00 [INF] Order 1006393622 , Item TM-219099 Processed succesfully
+2022-06-09 13:23:45.182 -05:00 [INF] Order 1006393626 , Item TM-219001 Processed succesfully
+2022-06-09 13:23:46.044 -05:00 [INF] Order 1006393630 , Item TM-219009 Processed succesfully
+2022-06-09 13:23:46.253 -05:00 [INF] Order 1006393630 , Item TM-220125 Processed succesfully
+2022-06-09 13:23:46.463 -05:00 [INF] Order 1006393630 , Item TM-219001 Processed succesfully
+2022-06-09 13:23:46.673 -05:00 [INF] Order 1006393630 , Item TM-219000 Processed succesfully
+2022-06-09 13:23:46.882 -05:00 [INF] Order 1006393630 , Item TM-220040 Processed succesfully
+2022-06-09 13:23:47.721 -05:00 [INF] Order 1006393642 , Item TM-219001 Processed succesfully
+2022-06-09 13:23:47.931 -05:00 [INF] Order 1006393642 , Item TM-219012 Processed succesfully
+2022-06-09 13:23:48.141 -05:00 [INF] Order 1006393642 , Item TM-220043 Processed succesfully
+2022-06-09 13:23:48.350 -05:00 [INF] Order 1006393642 , Item TM-220051 Processed succesfully
+2022-06-09 13:23:48.562 -05:00 [INF] Order 1006393642 , Item TM-219028 Processed succesfully
+2022-06-09 13:23:48.773 -05:00 [INF] Order 1006393642 , Item TM-219024 Processed succesfully
+2022-06-09 13:23:49.606 -05:00 [INF] Order 1006393643 , Item 35377 Processed succesfully
+2022-06-09 13:23:50.437 -05:00 [INF] Order 1006393674 , Item TM-220130 Processed succesfully
+2022-06-09 13:23:51.310 -05:00 [INF] Order 1006393681 , Item TM-219031 Processed succesfully
+2022-06-09 13:23:51.557 -05:00 [INF] Order 1006393681 , Item TM-219014 Processed succesfully
+2022-06-09 13:23:51.769 -05:00 [INF] Order 1006393681 , Item TM-220043 Processed succesfully
+2022-06-09 13:23:52.631 -05:00 [INF] Order 1006393686 , Item 38977 Processed succesfully
+2022-06-09 13:23:53.476 -05:00 [INF] Order 1006393696 , Item TM-220137 Processed succesfully
+2022-06-09 13:23:53.686 -05:00 [INF] Order 1006393696 , Item TM-220033 Processed succesfully
+2022-06-09 13:23:53.894 -05:00 [INF] Order 1006393696 , Item TM-220130 Processed succesfully
+2022-06-09 13:23:54.725 -05:00 [INF] Order 1006393705 , Item TM-220053 Processed succesfully
+2022-06-09 13:23:54.935 -05:00 [INF] Order 1006393705 , Item TM-219014 Processed succesfully
+2022-06-09 13:23:55.151 -05:00 [INF] Order 1006393705 , Item TM-219028 Processed succesfully
+2022-06-09 13:23:55.368 -05:00 [INF] Order 1006393705 , Item TM-220043 Processed succesfully
+2022-06-09 13:23:55.597 -05:00 [INF] Order 1006393705 , Item TM-220046 Processed succesfully
+2022-06-09 13:23:56.462 -05:00 [INF] Order 1006393707 , Item TM-220130 Processed succesfully
+2022-06-09 13:23:56.671 -05:00 [INF] Order 1006393707 , Item TM-220053 Processed succesfully
+2022-06-09 13:23:56.881 -05:00 [INF] Order 1006393707 , Item TM-220128 Processed succesfully
+2022-06-09 13:23:57.094 -05:00 [INF] Order 1006393707 , Item TM-220132 Processed succesfully
+2022-06-09 13:23:57.304 -05:00 [INF] Order 1006393707 , Item TM-220035 Processed succesfully
+2022-06-09 13:23:57.514 -05:00 [INF] Order 1006393707 , Item TM-220037 Processed succesfully
+2022-06-09 13:23:57.725 -05:00 [INF] Order 1006393707 , Item TM-220040 Processed succesfully
+2022-06-09 13:23:57.934 -05:00 [INF] Order 1006393707 , Item TM-220031 Processed succesfully
+2022-06-09 13:23:58.144 -05:00 [INF] Order 1006393707 , Item TM-220125 Processed succesfully
+2022-06-09 13:23:58.353 -05:00 [INF] Order 1006393707 , Item TM-220141 Processed succesfully
+2022-06-09 13:23:58.569 -05:00 [INF] Order 1006393707 , Item TM-220039 Processed succesfully
+2022-06-09 13:23:59.439 -05:00 [INF] Order 1006393711 , Item 22518 Processed succesfully
+2022-06-09 13:23:59.651 -05:00 [INF] Order 1006393711 , Item 34730 Processed succesfully
+2022-06-09 13:24:00.480 -05:00 [INF] Order 1006393720 , Item TM-820015 Processed succesfully
+2022-06-09 13:24:00.689 -05:00 [INF] Order 1006393720 , Item 35377 Processed succesfully
+2022-06-09 13:24:01.695 -05:00 [INF] Order 1006393729 , Item TM-220135 Processed succesfully
+2022-06-09 13:24:01.905 -05:00 [INF] Order 1006393729 , Item TM-219001 Processed succesfully
+2022-06-09 13:24:02.116 -05:00 [INF] Order 1006393729 , Item TM-219030 Processed succesfully
+2022-06-09 13:24:02.325 -05:00 [INF] Order 1006393729 , Item TM-219000 Processed succesfully
+2022-06-09 13:24:02.535 -05:00 [INF] Order 1006393729 , Item TM-219025 Processed succesfully
+2022-06-09 13:24:02.746 -05:00 [INF] Order 1006393729 , Item TM-219099 Processed succesfully
+2022-06-09 13:24:02.956 -05:00 [INF] Order 1006393729 , Item TM-219028 Processed succesfully
+2022-06-09 13:24:03.166 -05:00 [INF] Order 1006393729 , Item TM-220030 Processed succesfully
+2022-06-09 13:24:03.376 -05:00 [INF] Order 1006393729 , Item TM-219003 Processed succesfully
+2022-06-09 13:24:03.587 -05:00 [INF] Order 1006393729 , Item TM-219012 Processed succesfully
+2022-06-09 13:24:04.455 -05:00 [INF] Order 1006393738 , Item 35377 Processed succesfully
+2022-06-09 13:24:05.344 -05:00 [INF] Order 1006393754 , Item TM-220125 Processed succesfully
+2022-06-09 13:24:05.554 -05:00 [INF] Order 1006393754 , Item TM-219028 Processed succesfully
+2022-06-09 13:24:06.410 -05:00 [INF] Order 1006393761 , Item 37213 Processed succesfully
+2022-06-09 13:24:07.288 -05:00 [INF] Order 1006393763 , Item TM-219014 Processed succesfully
+2022-06-09 13:24:07.499 -05:00 [INF] Order 1006393763 , Item TM-219007 Processed succesfully
+2022-06-09 13:24:07.709 -05:00 [INF] Order 1006393763 , Item TM-220037 Processed succesfully
+2022-06-09 13:24:07.921 -05:00 [INF] Order 1006393763 , Item TM-220131 Processed succesfully
+2022-06-09 13:24:08.131 -05:00 [INF] Order 1006393763 , Item TM-220144 Processed succesfully
+2022-06-09 13:24:08.342 -05:00 [INF] Order 1006393763 , Item TM-220094 Processed succesfully
+2022-06-09 13:24:08.553 -05:00 [INF] Order 1006393763 , Item TM-220046 Processed succesfully
+2022-06-09 13:24:09.384 -05:00 [INF] Order 1006393764 , Item TM-219028 Processed succesfully
+2022-06-09 13:24:09.592 -05:00 [INF] Order 1006393764 , Item TM-220037 Processed succesfully
+2022-06-09 13:24:09.806 -05:00 [INF] Order 1006393764 , Item TM-220141 Processed succesfully
+2022-06-09 13:24:10.034 -05:00 [INF] Order 1006393764 , Item TM-219036 Processed succesfully
+2022-06-09 13:24:10.252 -05:00 [INF] Order 1006393764 , Item TM-220030 Processed succesfully
+2022-06-09 13:24:10.463 -05:00 [INF] Order 1006393764 , Item TM-220046 Processed succesfully
+2022-06-09 13:24:10.671 -05:00 [INF] Order 1006393764 , Item TM-219025 Processed succesfully
+2022-06-09 13:24:10.882 -05:00 [INF] Order 1006393764 , Item TM-219099 Processed succesfully
+2022-06-09 13:24:11.099 -05:00 [INF] Order 1006393764 , Item TM-220130 Processed succesfully
+2022-06-09 13:24:11.315 -05:00 [INF] Order 1006393764 , Item TM-220053 Processed succesfully
+2022-06-09 13:24:12.269 -05:00 [INF] Order 1006393766 , Item TM-219012 Processed succesfully
+2022-06-09 13:24:12.478 -05:00 [INF] Order 1006393766 , Item TM-220046 Processed succesfully
+2022-06-09 13:24:12.689 -05:00 [INF] Order 1006393766 , Item TM-219009 Processed succesfully
+2022-06-09 13:24:12.899 -05:00 [INF] Order 1006393766 , Item TM-219100 Processed succesfully
+2022-06-09 13:24:13.110 -05:00 [INF] Order 1006393766 , Item TM-219014 Processed succesfully
+2022-06-09 13:24:14.023 -05:00 [INF] Order 1006393802 , Item TM-219012 Processed succesfully
+2022-06-09 13:24:14.233 -05:00 [INF] Order 1006393802 , Item TM-220043 Processed succesfully
+2022-06-09 13:24:14.443 -05:00 [INF] Order 1006393802 , Item TM-219028 Processed succesfully
+2022-06-09 13:24:15.379 -05:00 [INF] Order 1006393847 , Item TM-219012 Processed succesfully
+2022-06-09 13:24:15.598 -05:00 [INF] Order 1006393847 , Item TM-219028 Processed succesfully
+2022-06-09 13:24:15.809 -05:00 [INF] Order 1006393847 , Item TM-220043 Processed succesfully
+2022-06-09 13:24:16.699 -05:00 [INF] Order 1006393853 , Item TM-219003 Processed succesfully
+2022-06-09 13:24:16.910 -05:00 [INF] Order 1006393853 , Item TM-220043 Processed succesfully
+2022-06-09 13:24:17.121 -05:00 [INF] Order 1006393853 , Item TM-219028 Processed succesfully
+2022-06-09 13:24:17.990 -05:00 [INF] Order 1006393857 , Item TM-220030 Processed succesfully
+2022-06-09 13:24:18.198 -05:00 [INF] Order 1006393857 , Item TM-220046 Processed succesfully
+2022-06-09 13:24:18.408 -05:00 [INF] Order 1006393857 , Item TM-219003 Processed succesfully
+2022-06-09 13:24:18.618 -05:00 [INF] Order 1006393857 , Item TM-220039 Processed succesfully
+2022-06-09 13:24:19.482 -05:00 [INF] Order 1006393870 , Item TM-219100 Processed succesfully
+2022-06-09 13:24:19.726 -05:00 [INF] Order 1006393870 , Item TM-219036 Processed succesfully
+2022-06-09 13:24:19.944 -05:00 [INF] Order 1006393870 , Item TM-219024 Processed succesfully
+2022-06-09 13:24:20.154 -05:00 [INF] Order 1006393870 , Item TM-220037 Processed succesfully
+2022-06-09 13:24:20.363 -05:00 [INF] Order 1006393870 , Item TM-220126 Processed succesfully
+2022-06-09 13:24:21.225 -05:00 [INF] Order 1006393880 , Item TM-219003 Processed succesfully
+2022-06-09 13:24:21.435 -05:00 [INF] Order 1006393880 , Item TM-219025 Processed succesfully
+2022-06-09 13:24:21.647 -05:00 [INF] Order 1006393880 , Item TM-219028 Processed succesfully
+2022-06-09 13:24:22.514 -05:00 [INF] Order 1006393892 , Item TM-219022 Processed succesfully
+2022-06-09 13:24:22.725 -05:00 [INF] Order 1006393892 , Item TM-219003 Processed succesfully
+2022-06-09 13:24:22.936 -05:00 [INF] Order 1006393892 , Item TM-219012 Processed succesfully
+2022-06-09 13:24:23.146 -05:00 [INF] Order 1006393892 , Item TM-220035 Processed succesfully
+2022-06-09 13:24:23.356 -05:00 [INF] Order 1006393892 , Item TM-219019 Processed succesfully
+2022-06-09 13:24:23.566 -05:00 [INF] Order 1006393892 , Item TM-219028 Processed succesfully
+2022-06-09 13:24:23.777 -05:00 [INF] Order 1006393892 , Item TM-219031 Processed succesfully
+2022-06-09 13:24:23.987 -05:00 [INF] Order 1006393892 , Item TM-220037 Processed succesfully
+2022-06-09 13:24:25.186 -05:00 [INF] Order 1006393900 , Item TM-219015 Processed succesfully
+2022-06-09 13:24:25.395 -05:00 [INF] Order 1006393900 , Item TM-220038 Processed succesfully
+2022-06-09 13:24:25.606 -05:00 [INF] Order 1006393900 , Item TM-219014 Processed succesfully
+2022-06-09 13:24:26.505 -05:00 [INF] Order 1006393908 , Item TM-219019 Processed succesfully
+2022-06-09 13:24:26.714 -05:00 [INF] Order 1006393908 , Item TM-219018 Processed succesfully
+2022-06-09 13:24:26.924 -05:00 [INF] Order 1006393908 , Item TM-219099 Processed succesfully
+2022-06-09 13:24:27.134 -05:00 [INF] Order 1006393908 , Item TM-219015 Processed succesfully
+2022-06-09 13:24:27.343 -05:00 [INF] Order 1006393908 , Item TM-219025 Processed succesfully
+2022-06-09 13:24:27.551 -05:00 [INF] Order 1006393908 , Item TM-219028 Processed succesfully
+2022-06-09 13:24:28.444 -05:00 [INF] Order 1006393909 , Item TM-219012 Processed succesfully
+2022-06-09 13:24:28.654 -05:00 [INF] Order 1006393909 , Item TM-220137 Processed succesfully
+2022-06-09 13:24:28.865 -05:00 [INF] Order 1006393909 , Item TM-220126 Processed succesfully
+2022-06-09 13:24:29.075 -05:00 [INF] Order 1006393909 , Item TM-220030 Processed succesfully
+2022-06-09 13:24:30.084 -05:00 [INF] Order 1006393915 , Item TM-219024 Processed succesfully
+2022-06-09 13:24:30.293 -05:00 [INF] Order 1006393915 , Item TM-220131 Processed succesfully
+2022-06-09 13:24:30.506 -05:00 [INF] Order 1006393915 , Item TM-220129 Processed succesfully
+2022-06-09 13:24:30.717 -05:00 [INF] Order 1006393915 , Item TM-219030 Processed succesfully
+2022-06-09 13:24:30.927 -05:00 [INF] Order 1006393915 , Item TM-220146 Processed succesfully
+2022-06-09 13:24:31.136 -05:00 [INF] Order 1006393915 , Item TM-219099 Processed succesfully
+2022-06-09 13:24:31.994 -05:00 [INF] Order 1006393920 , Item TM-220125 Processed succesfully
+2022-06-09 13:24:32.850 -05:00 [INF] Order 1006393922 , Item TM-219000 Processed succesfully
+2022-06-09 13:24:33.060 -05:00 [INF] Order 1006393922 , Item TM-220037 Processed succesfully
+2022-06-09 13:24:33.270 -05:00 [INF] Order 1006393922 , Item TM-219009 Processed succesfully
+2022-06-09 13:24:33.480 -05:00 [INF] Order 1006393922 , Item TM-220144 Processed succesfully
+2022-06-09 13:24:33.690 -05:00 [INF] Order 1006393922 , Item TM-219099 Processed succesfully
+2022-06-09 13:24:34.559 -05:00 [INF] Order 1006393936 , Item TM-219025 Processed succesfully
+2022-06-09 13:24:34.769 -05:00 [INF] Order 1006393936 , Item TM-219019 Processed succesfully
+2022-06-09 13:24:34.980 -05:00 [INF] Order 1006393936 , Item TM-219000 Processed succesfully
+2022-06-09 13:24:35.862 -05:00 [INF] Order 1006393937 , Item TM-220141 Processed succesfully
+2022-06-09 13:24:36.073 -05:00 [INF] Order 1006393937 , Item TM-219024 Processed succesfully
+2022-06-09 13:24:36.284 -05:00 [INF] Order 1006393937 , Item TM-219036 Processed succesfully
+2022-06-09 13:24:36.494 -05:00 [INF] Order 1006393937 , Item TM-220137 Processed succesfully
+2022-06-09 13:24:36.705 -05:00 [INF] Order 1006393937 , Item TM-219007 Processed succesfully
+2022-06-09 13:24:36.915 -05:00 [INF] Order 1006393937 , Item TM-219000 Processed succesfully
+2022-06-09 13:24:37.778 -05:00 [INF] Order 1006393944 , Item TM-219003 Processed succesfully
+2022-06-09 13:24:37.988 -05:00 [INF] Order 1006393944 , Item TM-220130 Processed succesfully
+2022-06-09 13:24:38.850 -05:00 [INF] Order 1006393952 , Item TM-220143 Processed succesfully
+2022-06-09 13:24:39.061 -05:00 [INF] Order 1006393952 , Item TM-120042 Processed succesfully
+2022-06-09 13:24:39.270 -05:00 [INF] Order 1006393952 , Item TM-219018 Processed succesfully
+2022-06-09 13:24:39.482 -05:00 [INF] Order 1006393952 , Item TM-219036 Processed succesfully
+2022-06-09 13:24:39.696 -05:00 [INF] Order 1006393952 , Item TM-219000 Processed succesfully
+2022-06-09 13:24:40.565 -05:00 [INF] Order 1006393953 , Item TM-219015 Processed succesfully
+2022-06-09 13:24:40.776 -05:00 [INF] Order 1006393953 , Item TM-219009 Processed succesfully
+2022-06-09 13:24:40.986 -05:00 [INF] Order 1006393953 , Item TM-219031 Processed succesfully
+2022-06-09 13:24:41.852 -05:00 [INF] Order 1006393954 , Item TM-219031 Processed succesfully
+2022-06-09 13:24:42.067 -05:00 [INF] Order 1006393954 , Item TM-219025 Processed succesfully
+2022-06-09 13:24:42.296 -05:00 [INF] Order 1006393954 , Item TM-219003 Processed succesfully
+2022-06-09 13:24:42.543 -05:00 [INF] Order 1006393954 , Item TM-219001 Processed succesfully
+2022-06-09 13:24:42.753 -05:00 [INF] Order 1006393954 , Item TM-219000 Processed succesfully
+2022-06-09 13:24:42.962 -05:00 [INF] Order 1006393954 , Item TM-219024 Processed succesfully
+2022-06-09 13:24:43.823 -05:00 [INF] Order 1006393968 , Item TM-220143 Processed succesfully
+2022-06-09 13:24:44.655 -05:00 [INF] Order 1006393969 , Item TM-219024 Processed succesfully
+2022-06-09 13:24:44.865 -05:00 [INF] Order 1006393969 , Item TM-219022 Processed succesfully
+2022-06-09 13:24:45.074 -05:00 [INF] Order 1006393969 , Item TM-220038 Processed succesfully
+2022-06-09 13:24:45.932 -05:00 [INF] Order 1006393973 , Item TM-219007 Processed succesfully
+2022-06-09 13:24:46.143 -05:00 [INF] Order 1006393973 , Item TM-220143 Processed succesfully
+2022-06-09 13:24:46.982 -05:00 [INF] Order 1006393974 , Item TM-219018 Processed succesfully
+2022-06-09 13:24:47.853 -05:00 [INF] Order 1006393978 , Item TM-219018 Processed succesfully
+2022-06-09 13:24:48.062 -05:00 [INF] Order 1006393978 , Item TM-219025 Processed succesfully
+2022-06-09 13:24:48.932 -05:00 [INF] Order 1006393980 , Item TM-220125 Processed succesfully
+2022-06-09 13:24:49.143 -05:00 [INF] Order 1006393980 , Item TM-220137 Processed succesfully
+2022-06-09 13:24:49.353 -05:00 [INF] Order 1006393980 , Item TM-219031 Processed succesfully
+2022-06-09 13:24:50.243 -05:00 [INF] Order 1006393981 , Item TM-219009 Processed succesfully
+2022-06-09 13:24:51.141 -05:00 [INF] Order 1006393982 , Item TM-219018 Processed succesfully
+2022-06-09 13:24:51.995 -05:00 [INF] Order 1006393987 , Item TM-220038 Processed succesfully
+2022-06-09 13:24:52.205 -05:00 [INF] Order 1006393987 , Item TM-219003 Processed succesfully
+2022-06-09 13:24:52.418 -05:00 [INF] Order 1006393987 , Item TM-219015 Processed succesfully
+2022-06-09 13:24:52.629 -05:00 [INF] Order 1006393987 , Item TM-220035 Processed succesfully
+2022-06-09 13:24:52.842 -05:00 [INF] Order 1006393987 , Item TM-219014 Processed succesfully
+2022-06-09 13:24:53.052 -05:00 [INF] Order 1006393987 , Item TM-219031 Processed succesfully
+2022-06-09 13:24:53.261 -05:00 [INF] Order 1006393987 , Item TM-219023 Processed succesfully
+2022-06-09 13:24:53.471 -05:00 [INF] Order 1006393987 , Item TM-220145 Processed succesfully
+2022-06-09 13:24:53.680 -05:00 [INF] Order 1006393987 , Item TM-219019 Processed succesfully
+2022-06-09 13:24:53.891 -05:00 [INF] Order 1006393987 , Item TM-220032 Processed succesfully
+2022-06-09 13:24:54.103 -05:00 [INF] Order 1006393987 , Item TM-220040 Processed succesfully
+2022-06-09 13:24:54.313 -05:00 [INF] Order 1006393987 , Item TM-219000 Processed succesfully
+2022-06-09 13:24:54.523 -05:00 [INF] Order 1006393987 , Item TM-219024 Processed succesfully
+2022-06-09 13:24:54.733 -05:00 [INF] Order 1006393987 , Item TM-219030 Processed succesfully
+2022-06-09 13:24:54.944 -05:00 [INF] Order 1006393987 , Item TM-219001 Processed succesfully
+2022-06-09 13:24:55.154 -05:00 [INF] Order 1006393987 , Item TM-220030 Processed succesfully
+2022-06-09 13:24:55.364 -05:00 [INF] Order 1006393987 , Item TM-219018 Processed succesfully
+2022-06-09 13:24:55.572 -05:00 [INF] Order 1006393987 , Item TM-219022 Processed succesfully
+2022-06-09 13:25:07.298 -05:00 [INF] Processing for 2022-02-02
+2022-06-09 13:25:07.298 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:25:07.299 -05:00 [INF] Preparing client for API
+2022-06-09 13:25:07.299 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:25:07.300 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-02
+2022-06-09 13:25:10.523 -05:00 [INF] Extraction completed
+2022-06-09 13:26:18.836 -05:00 [INF] Processing for 2022-02-03
+2022-06-09 13:26:18.836 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:26:18.839 -05:00 [INF] Preparing client for API
+2022-06-09 13:26:18.841 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:26:18.841 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-03
+2022-06-09 13:26:21.290 -05:00 [INF] Extraction completed
+2022-06-09 13:27:29.969 -05:00 [INF] Processing for 2022-02-04
+2022-06-09 13:27:29.969 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:27:29.970 -05:00 [INF] Preparing client for API
+2022-06-09 13:27:29.971 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:27:29.972 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-04
+2022-06-09 13:27:32.363 -05:00 [INF] Extraction completed
+2022-06-09 13:28:41.043 -05:00 [INF] Processing for 2022-02-05
+2022-06-09 13:28:41.044 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:28:41.045 -05:00 [INF] Preparing client for API
+2022-06-09 13:28:41.046 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:28:41.047 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-05
+2022-06-09 13:28:43.488 -05:00 [INF] Extraction completed
+2022-06-09 13:29:52.709 -05:00 [INF] Processing for 2022-02-06
+2022-06-09 13:29:52.709 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:29:52.711 -05:00 [INF] Preparing client for API
+2022-06-09 13:29:52.711 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:29:52.714 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-06
+2022-06-09 13:29:55.023 -05:00 [INF] Extraction completed
+2022-06-09 13:31:03.159 -05:00 [INF] Processing for 2022-02-07
+2022-06-09 13:31:03.160 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:31:03.163 -05:00 [INF] Preparing client for API
+2022-06-09 13:31:03.165 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:31:03.165 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-07
+2022-06-09 13:31:05.303 -05:00 [INF] Extraction completed
+2022-06-09 13:32:13.926 -05:00 [INF] Processing for 2022-02-08
+2022-06-09 13:32:13.926 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:32:13.928 -05:00 [INF] Preparing client for API
+2022-06-09 13:32:13.929 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:32:13.929 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-08
+2022-06-09 13:32:16.098 -05:00 [INF] Extraction completed
+2022-06-09 13:33:25.073 -05:00 [INF] Processing for 2022-02-09
+2022-06-09 13:33:25.074 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:33:25.076 -05:00 [INF] Preparing client for API
+2022-06-09 13:33:25.077 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:33:25.082 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-09
+2022-06-09 13:33:27.044 -05:00 [INF] Extraction completed
+2022-06-09 13:34:35.250 -05:00 [INF] Processing for 2022-02-10
+2022-06-09 13:34:35.251 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:34:35.253 -05:00 [INF] Preparing client for API
+2022-06-09 13:34:35.253 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:34:35.253 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-10
+2022-06-09 13:34:37.490 -05:00 [INF] Extraction completed
+2022-06-09 13:35:46.848 -05:00 [INF] Processing for 2022-02-11
+2022-06-09 13:35:46.849 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:35:46.853 -05:00 [INF] Preparing client for API
+2022-06-09 13:35:46.857 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:35:46.858 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-11
+2022-06-09 13:35:49.098 -05:00 [INF] Extraction completed
+2022-06-09 13:36:57.856 -05:00 [INF] Processing for 2022-02-12
+2022-06-09 13:36:57.857 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:36:57.863 -05:00 [INF] Preparing client for API
+2022-06-09 13:36:57.864 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:36:57.864 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-12
+2022-06-09 13:37:00.356 -05:00 [INF] Extraction completed
+2022-06-09 13:38:08.937 -05:00 [INF] Processing for 2022-02-13
+2022-06-09 13:38:08.938 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:38:08.941 -05:00 [INF] Preparing client for API
+2022-06-09 13:38:08.942 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:38:08.943 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-13
+2022-06-09 13:38:11.347 -05:00 [INF] Extraction completed
+2022-06-09 13:39:20.225 -05:00 [INF] Processing for 2022-02-14
+2022-06-09 13:39:20.225 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:39:20.227 -05:00 [INF] Preparing client for API
+2022-06-09 13:39:20.227 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:39:20.228 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-14
+2022-06-09 13:39:22.411 -05:00 [INF] Extraction completed
+2022-06-09 13:40:30.711 -05:00 [INF] Processing for 2022-02-15
+2022-06-09 13:40:30.711 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:40:30.713 -05:00 [INF] Preparing client for API
+2022-06-09 13:40:30.714 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:40:30.717 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-15
+2022-06-09 13:40:32.969 -05:00 [INF] Extraction completed
+2022-06-09 13:41:41.765 -05:00 [INF] Processing for 2022-02-16
+2022-06-09 13:41:41.766 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:41:41.768 -05:00 [INF] Preparing client for API
+2022-06-09 13:41:41.769 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:41:41.769 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-16
+2022-06-09 13:41:44.059 -05:00 [INF] Extraction completed
+2022-06-09 13:42:52.020 -05:00 [INF] Processing for 2022-02-17
+2022-06-09 13:42:52.020 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:42:52.022 -05:00 [INF] Preparing client for API
+2022-06-09 13:42:52.022 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:42:52.023 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-17
+2022-06-09 13:42:54.188 -05:00 [INF] Extraction completed
+2022-06-09 13:44:02.927 -05:00 [INF] Processing for 2022-02-18
+2022-06-09 13:44:02.927 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:44:02.929 -05:00 [INF] Preparing client for API
+2022-06-09 13:44:02.929 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:44:02.930 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-18
+2022-06-09 13:44:05.051 -05:00 [INF] Extraction completed
+2022-06-09 13:45:16.319 -05:00 [INF] Processing for 2022-02-19
+2022-06-09 13:45:16.319 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:45:16.320 -05:00 [INF] Preparing client for API
+2022-06-09 13:45:16.322 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:45:16.322 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-19
+2022-06-09 13:45:19.081 -05:00 [INF] Extraction completed
+2022-06-09 13:46:27.529 -05:00 [INF] Processing for 2022-02-20
+2022-06-09 13:46:27.529 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:46:27.531 -05:00 [INF] Preparing client for API
+2022-06-09 13:46:27.533 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:46:27.534 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-20
+2022-06-09 13:46:30.111 -05:00 [INF] Extraction completed
+2022-06-09 13:47:38.144 -05:00 [INF] Processing for 2022-02-21
+2022-06-09 13:47:38.144 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:47:38.148 -05:00 [INF] Preparing client for API
+2022-06-09 13:47:38.149 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:47:38.149 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-21
+2022-06-09 13:47:40.682 -05:00 [INF] Extraction completed
+2022-06-09 13:48:32.165 -05:00 [INF] Order 1006410273 , Item 30908 Processed succesfully
+2022-06-09 13:48:33.047 -05:00 [INF] Order 1006410877 , Item 29428 Processed succesfully
+2022-06-09 13:48:33.906 -05:00 [INF] Order 1006410914 , Item 34030 Processed succesfully
+2022-06-09 13:48:35.044 -05:00 [INF] Order 1006411090 , Item 36735 Processed succesfully
+2022-06-09 13:48:36.054 -05:00 [INF] Order 1006411111 , Item 36967 Processed succesfully
+2022-06-09 13:48:38.896 -05:00 [INF] Order 1006411669 , Item 30908 Processed succesfully
+2022-06-09 13:48:39.888 -05:00 [INF] Order 1006411681 , Item 33728 Processed succesfully
+2022-06-09 13:48:41.669 -05:00 [INF] Order 1006411867 , Item 38570 Processed succesfully
+2022-06-09 13:48:54.298 -05:00 [INF] Processing for 2022-02-22
+2022-06-09 13:48:54.298 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:48:54.300 -05:00 [INF] Preparing client for API
+2022-06-09 13:48:54.300 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:48:54.301 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-22
+2022-06-09 13:48:56.746 -05:00 [INF] Extraction completed
+2022-06-09 13:50:05.830 -05:00 [INF] Processing for 2022-02-23
+2022-06-09 13:50:05.831 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:50:05.832 -05:00 [INF] Preparing client for API
+2022-06-09 13:50:05.834 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:50:05.834 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-23
+2022-06-09 13:50:08.346 -05:00 [INF] Extraction completed
+2022-06-09 13:51:17.710 -05:00 [INF] Processing for 2022-02-24
+2022-06-09 13:51:17.711 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:51:17.713 -05:00 [INF] Preparing client for API
+2022-06-09 13:51:17.713 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:51:17.714 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-24
+2022-06-09 13:51:19.906 -05:00 [INF] Extraction completed
+2022-06-09 13:52:28.342 -05:00 [INF] Processing for 2022-02-25
+2022-06-09 13:52:28.342 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:52:28.345 -05:00 [INF] Preparing client for API
+2022-06-09 13:52:28.346 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:52:28.347 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-25
+2022-06-09 13:52:30.385 -05:00 [INF] Extraction completed
+2022-06-09 13:53:39.117 -05:00 [INF] Processing for 2022-02-26
+2022-06-09 13:53:39.117 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:53:39.118 -05:00 [INF] Preparing client for API
+2022-06-09 13:53:39.118 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:53:39.120 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-26
+2022-06-09 13:53:41.120 -05:00 [INF] Extraction completed
+2022-06-09 13:54:49.581 -05:00 [INF] Processing for 2022-02-27
+2022-06-09 13:54:49.582 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:54:49.590 -05:00 [INF] Preparing client for API
+2022-06-09 13:54:49.591 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:54:49.591 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-27
+2022-06-09 13:54:52.294 -05:00 [INF] Extraction completed
+2022-06-09 13:56:00.562 -05:00 [INF] Processing for 2022-02-28
+2022-06-09 13:56:00.562 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-09 13:56:00.564 -05:00 [INF] Preparing client for API
+2022-06-09 13:56:00.566 -05:00 [INF] Executing GET fulfillment by day
+2022-06-09 13:56:00.567 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-02-28
+2022-06-09 13:56:03.116 -05:00 [INF] Extraction completed
+2022-06-09 13:57:12.019 -05:00 [INF] Completed process

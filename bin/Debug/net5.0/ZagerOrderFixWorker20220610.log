@@ -1,0 +1,418 @@
+2022-06-10 13:54:35.979 -05:00 [INF] Insert the orderNumber
+2022-06-10 13:55:48.091 -05:00 [INF] Insert the orderNumber
+2022-06-10 13:55:54.112 -05:00 [INF] Insert the tracking number
+2022-06-10 13:56:08.084 -05:00 [INF] Order 1006395009, Tracking 1Z1Y26Y00399905591
+2022-06-10 13:56:14.827 -05:00 [INF] Order 1006395009 , Item TM-219023 Processed succesfully
+2022-06-10 13:56:15.239 -05:00 [INF] Order 1006395009 , Item TM-220030 Processed succesfully
+2022-06-10 13:56:15.452 -05:00 [INF] Order 1006395009 , Item TM-219031 Processed succesfully
+2022-06-10 13:56:21.090 -05:00 [INF] Insert the orderNumber
+2022-06-10 13:56:27.290 -05:00 [INF] Insert the tracking number
+2022-06-10 13:56:32.295 -05:00 [INF] Order 1006394828, Tracking 1Z1Y26Y00399899929
+2022-06-10 13:56:33.168 -05:00 [INF] Order 1006394828 , Item 36959 Processed succesfully
+2022-06-10 13:56:36.321 -05:00 [INF] Insert the orderNumber
+2022-06-10 13:56:41.826 -05:00 [INF] Insert the tracking number
+2022-06-10 13:56:46.601 -05:00 [INF] Order 1006394880, Tracking 1Z1Y26Y00399770870
+2022-06-10 13:56:47.780 -05:00 [INF] Order 1006394880 , Item TM-220128 Processed succesfully
+2022-06-10 13:56:52.419 -05:00 [INF] Insert the orderNumber
+2022-06-10 13:56:57.672 -05:00 [INF] Insert the tracking number
+2022-06-10 13:57:02.112 -05:00 [INF] Order 1006395004, Tracking 1Z1Y26Y00399537408
+2022-06-10 13:57:03.620 -05:00 [INF] Order 1006395004 , Item TM-220147 Processed succesfully
+2022-06-10 13:57:03.855 -05:00 [INF] Order 1006395004 , Item TM-220131 Processed succesfully
+2022-06-10 13:57:04.078 -05:00 [INF] Order 1006395004 , Item TM-220146 Processed succesfully
+2022-06-10 13:57:07.659 -05:00 [INF] Insert the orderNumber
+2022-06-10 13:57:15.699 -05:00 [INF] Insert the tracking number
+2022-06-10 13:57:19.943 -05:00 [INF] Order 1006394777, Tracking 1Z1Y26Y00399362150
+2022-06-10 13:57:21.325 -05:00 [INF] Order 1006394777 , Item TM-219030 Processed succesfully
+2022-06-10 13:57:21.543 -05:00 [INF] Order 1006394777 , Item TM-219023 Processed succesfully
+2022-06-10 13:57:21.760 -05:00 [INF] Order 1006394777 , Item TM-219036 Processed succesfully
+2022-06-10 13:57:29.992 -05:00 [INF] Insert the orderNumber
+2022-06-10 13:57:31.352 -05:00 [INF] Insert the tracking number
+2022-06-10 13:57:37.916 -05:00 [INF] Order 1006394707, Tracking 1Z1Y26Y00399027209
+2022-06-10 13:57:38.821 -05:00 [INF] Order 1006394707 , Item TM-120042 Processed succesfully
+2022-06-10 13:57:39.028 -05:00 [INF] Order 1006394707 , Item 33986 Processed succesfully
+2022-06-10 13:57:39.237 -05:00 [INF] Order 1006394707 , Item 36228 Processed succesfully
+2022-06-10 13:57:39.445 -05:00 [INF] Order 1006394707 , Item TM-220147 Processed succesfully
+2022-06-10 13:57:39.659 -05:00 [INF] Order 1006394707 , Item 28881 Processed succesfully
+2022-06-10 13:57:57.672 -05:00 [INF] Insert the orderNumber
+2022-06-10 13:58:03.716 -05:00 [INF] Insert the tracking number
+2022-06-10 13:58:07.109 -05:00 [INF] Order 1006393946, Tracking 1Z1Y26Y00398923662
+2022-06-10 13:58:09.711 -05:00 [INF] Order 1006393946 , Item TM-219015 Processed succesfully
+2022-06-10 13:58:13.136 -05:00 [INF] Insert the orderNumber
+2022-06-10 13:58:17.932 -05:00 [INF] Insert the tracking number
+2022-06-10 13:58:21.109 -05:00 [INF] Order 1006394840, Tracking 1Z1Y26Y00398882108
+2022-06-10 13:58:22.254 -05:00 [INF] Order 1006394840 , Item TM-220125 Processed succesfully
+2022-06-10 13:58:24.882 -05:00 [INF] Insert the orderNumber
+2022-06-10 13:58:29.717 -05:00 [INF] Insert the tracking number
+2022-06-10 13:58:33.748 -05:00 [INF] Order 1006394587, Tracking 1Z1Y26Y00398365462
+2022-06-10 13:58:34.875 -05:00 [INF] Order 1006394587 , Item TM-220137 Processed succesfully
+2022-06-10 13:58:37.149 -05:00 [INF] Insert the orderNumber
+2022-06-10 13:58:44.552 -05:00 [INF] Insert the tracking number
+2022-06-10 13:58:48.461 -05:00 [INF] Order 1006394912, Tracking 1Z1Y26Y00398334245
+2022-06-10 13:58:49.659 -05:00 [INF] Order 1006394912 , Item 33721 Processed succesfully
+2022-06-10 13:58:55.583 -05:00 [INF] Insert the orderNumber
+2022-06-10 13:58:57.301 -05:00 [INF] Insert the tracking number
+2022-06-10 13:59:02.598 -05:00 [INF] Order 1006394615, Tracking 1Z1Y26Y00398236440
+2022-06-10 13:59:03.466 -05:00 [INF] Order 1006394615 , Item 34730 Processed succesfully
+2022-06-10 13:59:09.121 -05:00 [INF] Insert the orderNumber
+2022-06-10 13:59:10.241 -05:00 [INF] Insert the tracking number
+2022-06-10 13:59:15.987 -05:00 [INF] Order 1006395096, Tracking 1Z1Y26Y00398132356
+2022-06-10 13:59:17.428 -05:00 [INF] Order 1006395096 , Item 29433 Processed succesfully
+2022-06-10 13:59:19.810 -05:00 [INF] Insert the orderNumber
+2022-06-10 13:59:24.533 -05:00 [INF] Insert the tracking number
+2022-06-10 13:59:35.229 -05:00 [INF] Order 1006394897, Tracking 1Z1Y26Y00398087058
+2022-06-10 13:59:36.156 -05:00 [INF] Order 1006394897 , Item TM-219014 Processed succesfully
+2022-06-10 13:59:36.364 -05:00 [INF] Order 1006394897 , Item TM-219030 Processed succesfully
+2022-06-10 13:59:36.572 -05:00 [INF] Order 1006394897 , Item TM-220038 Processed succesfully
+2022-06-10 13:59:41.120 -05:00 [INF] Insert the orderNumber
+2022-06-10 13:59:50.745 -05:00 [INF] Insert the tracking number
+2022-06-10 13:59:56.364 -05:00 [INF] Order 1006395070, Tracking 1Z1Y26Y00397820177
+2022-06-10 13:59:57.273 -05:00 [INF] Order 1006395070 , Item 36966 Processed succesfully
+2022-06-10 13:59:59.119 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:00:03.298 -05:00 [INF] Insert the tracking number
+2022-06-10 14:00:06.684 -05:00 [INF] Order 1006394803, Tracking 1Z1Y26Y00397715344
+2022-06-10 14:00:07.737 -05:00 [INF] Order 1006394803 , Item TM-219014 Processed succesfully
+2022-06-10 14:00:09.354 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:00:13.757 -05:00 [INF] Insert the tracking number
+2022-06-10 14:00:18.142 -05:00 [INF] Order 1006394959, Tracking 1Z1Y26Y00397627458
+2022-06-10 14:00:19.106 -05:00 [INF] Order 1006394959 , Item TM-220138 Processed succesfully
+2022-06-10 14:00:19.324 -05:00 [INF] Order 1006394959 , Item TM-219019 Processed succesfully
+2022-06-10 14:00:21.329 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:00:29.776 -05:00 [INF] Insert the tracking number
+2022-06-10 14:00:35.597 -05:00 [INF] Order 1006394599, Tracking 1Z1Y26Y00397377255
+2022-06-10 14:00:49.771 -05:00 [INF] Order 1006394599 , Item 37214 Processed succesfully
+2022-06-10 14:00:53.853 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:00:58.118 -05:00 [INF] Insert the tracking number
+2022-06-10 14:01:02.456 -05:00 [INF] Order 1006394835, Tracking 1Z1Y26Y00397339313
+2022-06-10 14:01:16.805 -05:00 [INF] Order 1006394835 , Item TM-219007 Processed succesfully
+2022-06-10 14:01:17.087 -05:00 [INF] Order 1006394835 , Item TM-219099 Processed succesfully
+2022-06-10 14:01:17.370 -05:00 [INF] Order 1006394835 , Item TM-219100 Processed succesfully
+2022-06-10 14:01:17.619 -05:00 [INF] Order 1006394835 , Item TM-220040 Processed succesfully
+2022-06-10 14:01:17.827 -05:00 [INF] Order 1006394835 , Item TM-220037 Processed succesfully
+2022-06-10 14:01:19.829 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:01:22.501 -05:00 [INF] Insert the tracking number
+2022-06-10 14:01:26.055 -05:00 [INF] Order 1006394888, Tracking 1Z1Y26Y00397167268
+2022-06-10 14:01:29.072 -05:00 [INF] Order 1006394888 , Item 37212 Processed succesfully
+2022-06-10 14:01:36.592 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:01:37.460 -05:00 [INF] Insert the tracking number
+2022-06-10 14:01:41.388 -05:00 [INF] Order 1006394988, Tracking 1Z1Y26Y00397156618
+2022-06-10 14:01:59.643 -05:00 [INF] Order 1006394988 , Item TM-220137 Processed succesfully
+2022-06-10 14:02:02.616 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:02:04.182 -05:00 [INF] Insert the tracking number
+2022-06-10 14:02:07.971 -05:00 [INF] Order 1006394770, Tracking 1Z1Y26Y00397096362
+2022-06-10 14:02:22.716 -05:00 [INF] Order 1006394770 , Item 31855 Processed succesfully
+2022-06-10 14:02:40.680 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:02:47.746 -05:00 [INF] Insert the tracking number
+2022-06-10 14:02:51.977 -05:00 [INF] Order 1006394733, Tracking 1Z1Y26Y00397050982
+2022-06-10 14:03:17.515 -05:00 [INF] Order 1006394733 , Item 33061 Processed succesfully
+2022-06-10 14:03:42.799 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:03:48.922 -05:00 [INF] Insert the tracking number
+2022-06-10 14:03:52.929 -05:00 [INF] Order 1006395088, Tracking 1Z1Y26Y00396974567
+2022-06-10 14:04:17.571 -05:00 [INF] Order 1006395088 , Item 13728 Processed succesfully
+2022-06-10 14:05:03.835 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:05:12.716 -05:00 [INF] Insert the tracking number
+2022-06-10 14:05:18.211 -05:00 [INF] Order 1006394862, Tracking 1Z1Y26Y00396933888
+2022-06-10 14:05:48.528 -05:00 [ERR] Database connection failed
+2022-06-10 14:06:11.179 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:06:22.185 -05:00 [INF] Insert the tracking number
+2022-06-10 14:06:26.555 -05:00 [INF] Order 1006394968, Tracking 1Z1Y26Y00396698642
+2022-06-10 14:06:48.731 -05:00 [INF] Order 1006394968 , Item 30692 Processed succesfully
+2022-06-10 14:06:49.035 -05:00 [INF] Order 1006394968 , Item 30694 Processed succesfully
+2022-06-10 14:07:21.248 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:07:25.466 -05:00 [INF] Insert the tracking number
+2022-06-10 14:07:29.985 -05:00 [INF] Order 1006391157, Tracking 1Z1Y26Y00396642282
+2022-06-10 14:07:59.088 -05:00 [INF] Order 1006391157 , Item 36928 Processed succesfully
+2022-06-10 14:08:50.802 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:08:56.503 -05:00 [INF] Insert the tracking number
+2022-06-10 14:09:00.942 -05:00 [INF] Order 1006394983, Tracking 1Z1Y26Y00396581231
+2022-06-10 14:09:03.480 -05:00 [INF] Order 1006394983 , Item TM-219008 Processed succesfully
+2022-06-10 14:09:03.700 -05:00 [INF] Order 1006394983 , Item TM-220141 Processed succesfully
+2022-06-10 14:09:03.907 -05:00 [INF] Order 1006394983 , Item TM-220040 Processed succesfully
+2022-06-10 14:09:33.402 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:09:38.140 -05:00 [INF] Insert the tracking number
+2022-06-10 14:09:43.617 -05:00 [INF] Order 1006393877, Tracking 1Z1Y26Y00396383277
+2022-06-10 14:09:49.040 -05:00 [INF] Order 1006393877 , Item 33061 Processed succesfully
+2022-06-10 14:11:40.363 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:11:44.834 -05:00 [INF] Insert the tracking number
+2022-06-10 14:11:49.464 -05:00 [INF] Order 1006394582, Tracking 1Z1Y26Y00396197077
+2022-06-10 14:11:50.304 -05:00 [INF] Order 1006394582 , Item 6408 Processed succesfully
+2022-06-10 14:11:50.516 -05:00 [INF] Order 1006394582 , Item TM-219008 Processed succesfully
+2022-06-10 14:12:54.459 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:12:55.756 -05:00 [INF] Insert the tracking number
+2022-06-10 14:12:59.785 -05:00 [INF] Order 1006394913, Tracking 1Z1Y26Y00395952832
+2022-06-10 14:13:00.693 -05:00 [INF] Order 1006394913 , Item TM-220144 Processed succesfully
+2022-06-10 14:13:00.901 -05:00 [INF] Order 1006394913 , Item TM-220126 Processed succesfully
+2022-06-10 14:13:01.111 -05:00 [INF] Order 1006394913 , Item TM-219014 Processed succesfully
+2022-06-10 14:13:14.470 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:13:19.122 -05:00 [INF] Insert the tracking number
+2022-06-10 14:13:24.870 -05:00 [INF] Order 1006394678, Tracking 1Z1Y26Y00395938410
+2022-06-10 14:13:25.749 -05:00 [INF] Order 1006394678 , Item TM-220137 Processed succesfully
+2022-06-10 14:13:37.807 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:13:42.187 -05:00 [INF] Insert the tracking number
+2022-06-10 14:13:45.822 -05:00 [INF] Order 1006395029, Tracking 1Z1Y26Y00395905188
+2022-06-10 14:13:46.710 -05:00 [INF] Order 1006395029 , Item TM-220131 Processed succesfully
+2022-06-10 14:13:47.981 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:13:52.337 -05:00 [INF] Insert the tracking number
+2022-06-10 14:13:55.470 -05:00 [INF] Order 1006395116, Tracking 1Z1Y26Y00395897545
+2022-06-10 14:13:57.053 -05:00 [INF] Order 1006395116 , Item TM-219015 Processed succesfully
+2022-06-10 14:13:57.261 -05:00 [INF] Order 1006395116 , Item TM-220144 Processed succesfully
+2022-06-10 14:13:57.468 -05:00 [INF] Order 1006395116 , Item TM-220126 Processed succesfully
+2022-06-10 14:13:57.677 -05:00 [INF] Order 1006395116 , Item TM-220138 Processed succesfully
+2022-06-10 14:13:59.373 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:14:03.368 -05:00 [INF] Insert the tracking number
+2022-06-10 14:14:06.666 -05:00 [INF] Order 1006394821, Tracking 1Z1Y26Y00395799937
+2022-06-10 14:14:07.517 -05:00 [INF] Order 1006394821 , Item TM-219100 Processed succesfully
+2022-06-10 14:14:07.725 -05:00 [INF] Order 1006394821 , Item TM-219099 Processed succesfully
+2022-06-10 14:14:11.081 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:14:13.475 -05:00 [INF] Insert the tracking number
+2022-06-10 14:14:18.204 -05:00 [INF] Order 1006394929, Tracking 1Z1Y26Y00395626828
+2022-06-10 14:14:19.103 -05:00 [INF] Order 1006394929 , Item 38983 Processed succesfully
+2022-06-10 14:14:24.384 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:14:25.140 -05:00 [INF] Insert the tracking number
+2022-06-10 14:14:28.200 -05:00 [INF] Order 1006394750, Tracking 1Z1Y26Y00395513977
+2022-06-10 14:14:29.059 -05:00 [INF] Order 1006394750 , Item TM-220135 Processed succesfully
+2022-06-10 14:14:30.557 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:14:33.576 -05:00 [INF] Insert the tracking number
+2022-06-10 14:14:37.112 -05:00 [INF] Order 1006394645, Tracking 1Z1Y26Y00395187035
+2022-06-10 14:14:37.968 -05:00 [INF] Order 1006394645 , Item TM-219023 Processed succesfully
+2022-06-10 14:14:38.175 -05:00 [INF] Order 1006394645 , Item TM-219030 Processed succesfully
+2022-06-10 14:14:42.527 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:14:46.319 -05:00 [INF] Insert the tracking number
+2022-06-10 14:14:49.119 -05:00 [INF] Order 1006394860, Tracking 1Z1Y26Y00395132290
+2022-06-10 14:14:49.976 -05:00 [INF] Order 1006394860 , Item 36742 Processed succesfully
+2022-06-10 14:14:51.432 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:14:54.597 -05:00 [INF] Insert the tracking number
+2022-06-10 14:14:58.275 -05:00 [INF] Order 1006394292, Tracking 1Z1Y26Y00394935657
+2022-06-10 14:14:59.146 -05:00 [INF] Order 1006394292 , Item TM-220146 Processed succesfully
+2022-06-10 14:14:59.357 -05:00 [INF] Order 1006394292 , Item TM-220132 Processed succesfully
+2022-06-10 14:14:59.564 -05:00 [INF] Order 1006394292 , Item TM-219031 Processed succesfully
+2022-06-10 14:14:59.774 -05:00 [INF] Order 1006394292 , Item TM-219014 Processed succesfully
+2022-06-10 14:14:59.983 -05:00 [INF] Order 1006394292 , Item TM-220147 Processed succesfully
+2022-06-10 14:15:00.191 -05:00 [INF] Order 1006394292 , Item TM-220040 Processed succesfully
+2022-06-10 14:15:01.095 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:15:05.936 -05:00 [INF] Insert the tracking number
+2022-06-10 14:15:09.457 -05:00 [INF] Order 1006394154, Tracking 1Z1Y26Y00394897627
+2022-06-10 14:15:10.370 -05:00 [INF] Order 1006394154 , Item TM-220040 Processed succesfully
+2022-06-10 14:15:10.578 -05:00 [INF] Order 1006394154 , Item TM-219022 Processed succesfully
+2022-06-10 14:15:19.050 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:15:26.671 -05:00 [INF] Insert the tracking number
+2022-06-10 14:15:30.128 -05:00 [INF] Order 1006394076, Tracking 1Z1Y26Y00394781671
+2022-06-10 14:15:31.255 -05:00 [INF] Order 1006394076 , Item TM-220038 Processed succesfully
+2022-06-10 14:15:31.463 -05:00 [INF] Order 1006394076 , Item TM-219031 Processed succesfully
+2022-06-10 14:16:05.681 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:16:09.977 -05:00 [INF] Insert the tracking number
+2022-06-10 14:16:12.978 -05:00 [INF] Order 1006394420, Tracking 1Z1Y26Y00394752372
+2022-06-10 14:16:13.813 -05:00 [INF] Order 1006394420 , Item 33974 Processed succesfully
+2022-06-10 14:16:22.709 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:16:26.212 -05:00 [INF] Insert the tracking number
+2022-06-10 14:16:30.002 -05:00 [INF] Order 1006394338, Tracking 1Z1Y26Y00394673430
+2022-06-10 14:16:31.037 -05:00 [INF] Order 1006394338 , Item TM-219001 Processed succesfully
+2022-06-10 14:16:32.653 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:16:35.933 -05:00 [INF] Insert the tracking number
+2022-06-10 14:16:38.985 -05:00 [INF] Order 1006394243, Tracking 1Z1Y26Y00394484528
+2022-06-10 14:16:39.876 -05:00 [INF] Order 1006394243 , Item 22633 Processed succesfully
+2022-06-10 14:16:41.124 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:16:44.536 -05:00 [INF] Insert the tracking number
+2022-06-10 14:16:49.060 -05:00 [INF] Order 1006394408, Tracking 1Z1Y26Y00394389793
+2022-06-10 14:16:49.904 -05:00 [INF] Order 1006394408 , Item TM-219036 Processed succesfully
+2022-06-10 14:16:52.398 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:17:01.347 -05:00 [INF] Insert the tracking number
+2022-06-10 14:17:04.833 -05:00 [INF] Order 1006394038, Tracking 1Z1Y26Y00394238115
+2022-06-10 14:17:05.890 -05:00 [INF] Order 1006394038 , Item 36752 Processed succesfully
+2022-06-10 14:17:08.470 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:17:12.109 -05:00 [INF] Insert the tracking number
+2022-06-10 14:17:15.362 -05:00 [INF] Order 1006394128, Tracking 1Z1Y26Y00394147633
+2022-06-10 14:17:16.467 -05:00 [INF] Order 1006394128 , Item TM-220130 Processed succesfully
+2022-06-10 14:17:18.001 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:17:21.220 -05:00 [INF] Insert the tracking number
+2022-06-10 14:17:24.545 -05:00 [INF] Order 1006394004, Tracking 1Z1Y26Y00393994738
+2022-06-10 14:17:25.382 -05:00 [INF] Order 1006394004 , Item 35406 Processed succesfully
+2022-06-10 14:17:27.143 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:17:30.458 -05:00 [INF] Insert the tracking number
+2022-06-10 14:17:33.900 -05:00 [INF] Order 1006394155, Tracking 1Z1Y26Y00393819016
+2022-06-10 14:17:34.750 -05:00 [INF] Order 1006394155 , Item TM-220125 Processed succesfully
+2022-06-10 14:17:37.210 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:17:51.319 -05:00 [INF] Insert the tracking number
+2022-06-10 14:17:54.623 -05:00 [INF] Order 1006393996, Tracking 1Z1Y26Y00393660955
+2022-06-10 14:17:55.755 -05:00 [INF] Order 1006393996 , Item TM-220032 Processed succesfully
+2022-06-10 14:17:55.964 -05:00 [INF] Order 1006393996 , Item TM-219019 Processed succesfully
+2022-06-10 14:17:56.189 -05:00 [INF] Order 1006393996 , Item TM-219001 Processed succesfully
+2022-06-10 14:17:56.413 -05:00 [INF] Order 1006393996 , Item TM-220027 Processed succesfully
+2022-06-10 14:17:58.250 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:18:07.156 -05:00 [INF] Insert the tracking number
+2022-06-10 14:18:10.127 -05:00 [INF] Order 1006394396, Tracking 1Z1Y26Y00393600813
+2022-06-10 14:18:11.564 -05:00 [INF] Order 1006394396 , Item 28052 Processed succesfully
+2022-06-10 14:18:14.792 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:18:19.048 -05:00 [INF] Insert the tracking number
+2022-06-10 14:18:21.792 -05:00 [INF] Order 1006394176, Tracking 1Z1Y26Y00393431998
+2022-06-10 14:18:22.712 -05:00 [INF] Order 1006394176 , Item TM-220032 Processed succesfully
+2022-06-10 14:18:22.919 -05:00 [INF] Order 1006394176 , Item TM-220141 Processed succesfully
+2022-06-10 14:18:23.126 -05:00 [INF] Order 1006394176 , Item TM-220037 Processed succesfully
+2022-06-10 14:18:23.335 -05:00 [INF] Order 1006394176 , Item TM-220027 Processed succesfully
+2022-06-10 14:18:23.543 -05:00 [INF] Order 1006394176 , Item TM-220126 Processed succesfully
+2022-06-10 14:18:24.714 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:18:29.850 -05:00 [INF] Insert the tracking number
+2022-06-10 14:18:33.168 -05:00 [INF] Order 1006394123, Tracking 1Z1Y26Y00393405043
+2022-06-10 14:18:34.251 -05:00 [INF] Order 1006394123 , Item TM-820015 Processed succesfully
+2022-06-10 14:18:34.463 -05:00 [INF] Order 1006394123 , Item TM-220144 Processed succesfully
+2022-06-10 14:18:35.596 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:18:42.393 -05:00 [INF] Insert the tracking number
+2022-06-10 14:18:49.726 -05:00 [INF] Order 1006394426, Tracking 1Z1Y26Y00393258766
+2022-06-10 14:18:50.604 -05:00 [INF] Order 1006394426 , Item 33572 Processed succesfully
+2022-06-10 14:18:53.544 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:18:58.515 -05:00 [INF] Insert the tracking number
+2022-06-10 14:19:01.474 -05:00 [INF] Order 1006394072, Tracking 1Z1Y26Y00393228682
+2022-06-10 14:19:02.846 -05:00 [INF] Order 1006394072 , Item 23720 Processed succesfully
+2022-06-10 14:19:05.558 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:19:06.425 -05:00 [INF] Insert the tracking number
+2022-06-10 14:19:09.162 -05:00 [INF] Order 1006394359, Tracking 1Z1Y26Y00393211421
+2022-06-10 14:19:10.323 -05:00 [INF] Order 1006394359 , Item 33774 Processed succesfully
+2022-06-10 14:19:11.799 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:19:14.583 -05:00 [INF] Insert the tracking number
+2022-06-10 14:19:17.236 -05:00 [INF] Order 1006392365, Tracking 1Z1Y26Y00393146001
+2022-06-10 14:19:18.174 -05:00 [INF] Order 1006392365 , Item 37214 Processed succesfully
+2022-06-10 14:19:20.033 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:19:25.634 -05:00 [INF] Insert the tracking number
+2022-06-10 14:19:28.788 -05:00 [INF] Order 1006394104, Tracking 1Z1Y26Y00393145851
+2022-06-10 14:19:29.839 -05:00 [INF] Order 1006394104 , Item TM-219007 Processed succesfully
+2022-06-10 14:19:30.046 -05:00 [INF] Order 1006394104 , Item TM-220030 Processed succesfully
+2022-06-10 14:19:30.255 -05:00 [INF] Order 1006394104 , Item TM-219001 Processed succesfully
+2022-06-10 14:19:30.462 -05:00 [INF] Order 1006394104 , Item TM-219099 Processed succesfully
+2022-06-10 14:19:30.669 -05:00 [INF] Order 1006394104 , Item TM-219019 Processed succesfully
+2022-06-10 14:19:31.899 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:19:36.960 -05:00 [INF] Insert the tracking number
+2022-06-10 14:19:39.377 -05:00 [INF] Order 1006394160, Tracking 1Z1Y26Y00393115802
+2022-06-10 14:19:40.232 -05:00 [INF] Order 1006394160 , Item TM-218005 Processed succesfully
+2022-06-10 14:19:41.458 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:19:44.999 -05:00 [INF] Insert the tracking number
+2022-06-10 14:19:47.771 -05:00 [INF] Order 1006394223, Tracking 1Z1Y26Y00393070977
+2022-06-10 14:19:48.648 -05:00 [INF] Order 1006394223 , Item 36957 Processed succesfully
+2022-06-10 14:19:49.694 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:19:53.518 -05:00 [INF] Insert the tracking number
+2022-06-10 14:19:57.814 -05:00 [INF] Order 1006394571, Tracking 1Z1Y26Y00393046333
+2022-06-10 14:19:58.671 -05:00 [INF] Order 1006394571 , Item TM-219023 Processed succesfully
+2022-06-10 14:19:58.878 -05:00 [INF] Order 1006394571 , Item TM-219019 Processed succesfully
+2022-06-10 14:19:59.087 -05:00 [INF] Order 1006394571 , Item TM-219030 Processed succesfully
+2022-06-10 14:19:59.296 -05:00 [INF] Order 1006394571 , Item TM-220038 Processed succesfully
+2022-06-10 14:19:59.517 -05:00 [INF] Order 1006394571 , Item TM-219003 Processed succesfully
+2022-06-10 14:19:59.725 -05:00 [INF] Order 1006394571 , Item TM-220146 Processed succesfully
+2022-06-10 14:20:01.932 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:20:09.156 -05:00 [INF] Insert the tracking number
+2022-06-10 14:20:11.837 -05:00 [INF] Order 1006394238, Tracking 1Z1Y26Y00393043943
+2022-06-10 14:20:12.668 -05:00 [INF] Order 1006394238 , Item TM-219024 Processed succesfully
+2022-06-10 14:20:14.218 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:20:17.035 -05:00 [INF] Insert the tracking number
+2022-06-10 14:20:19.633 -05:00 [INF] Order 1006394241, Tracking 1Z1Y26Y00393040535
+2022-06-10 14:20:21.202 -05:00 [INF] Order 1006394241 , Item 33061 Processed succesfully
+2022-06-10 14:20:23.458 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:20:24.281 -05:00 [INF] Insert the tracking number
+2022-06-10 14:20:27.863 -05:00 [INF] Order 1006394319, Tracking 1Z1Y26Y00393022840
+2022-06-10 14:20:28.984 -05:00 [INF] Order 1006394319 , Item TM-219003 Processed succesfully
+2022-06-10 14:20:30.065 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:20:35.184 -05:00 [INF] Insert the tracking number
+2022-06-10 14:20:38.343 -05:00 [INF] Order 1006394215, Tracking 1Z1Y26Y00392936963
+2022-06-10 14:20:39.491 -05:00 [INF] Order 1006394215 , Item TM-219000 Processed succesfully
+2022-06-10 14:20:39.816 -05:00 [INF] Order 1006394215 , Item TM-219031 Processed succesfully
+2022-06-10 14:20:42.248 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:20:46.143 -05:00 [INF] Insert the tracking number
+2022-06-10 14:20:48.972 -05:00 [INF] Order 1006394405, Tracking 1Z1Y26Y00392845605
+2022-06-10 14:20:49.839 -05:00 [INF] Order 1006394405 , Item 18849 Processed succesfully
+2022-06-10 14:20:53.533 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:20:54.253 -05:00 [INF] Insert the tracking number
+2022-06-10 14:20:57.225 -05:00 [INF] Order 1006393993, Tracking 1Z1Y26Y00392775164
+2022-06-10 14:20:58.363 -05:00 [INF] Order 1006393993 , Item TM-220137 Processed succesfully
+2022-06-10 14:20:58.612 -05:00 [INF] Order 1006393993 , Item TM-220125 Processed succesfully
+2022-06-10 14:20:59.821 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:21:03.587 -05:00 [INF] Insert the tracking number
+2022-06-10 14:21:07.164 -05:00 [INF] Order 1006394276, Tracking 1Z1Y26Y00392740898
+2022-06-10 14:21:08.422 -05:00 [INF] Order 1006394276 , Item TM-219023 Processed succesfully
+2022-06-10 14:21:08.665 -05:00 [INF] Order 1006394276 , Item TM-220038 Processed succesfully
+2022-06-10 14:21:08.892 -05:00 [INF] Order 1006394276 , Item TM-219031 Processed succesfully
+2022-06-10 14:21:09.101 -05:00 [INF] Order 1006394276 , Item TM-219036 Processed succesfully
+2022-06-10 14:21:09.309 -05:00 [INF] Order 1006394276 , Item TM-219030 Processed succesfully
+2022-06-10 14:21:09.521 -05:00 [INF] Order 1006394276 , Item TM-219024 Processed succesfully
+2022-06-10 14:21:09.729 -05:00 [INF] Order 1006394276 , Item TM-219022 Processed succesfully
+2022-06-10 14:22:32.064 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:22:37.550 -05:00 [INF] Insert the tracking number
+2022-06-10 14:22:40.219 -05:00 [INF] Order 1006394071, Tracking 1Z1Y26Y00392463090
+2022-06-10 14:22:41.387 -05:00 [INF] Order 1006394071 , Item TM-219007 Processed succesfully
+2022-06-10 14:22:41.597 -05:00 [INF] Order 1006394071 , Item TM-220146 Processed succesfully
+2022-06-10 14:22:42.514 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:22:45.398 -05:00 [INF] Insert the tracking number
+2022-06-10 14:22:47.748 -05:00 [INF] Order 1006394556, Tracking 1Z1Y26Y00392341748
+2022-06-10 14:22:48.660 -05:00 [INF] Order 1006394556 , Item TM-219030 Processed succesfully
+2022-06-10 14:22:51.112 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:22:51.887 -05:00 [INF] Insert the tracking number
+2022-06-10 14:22:56.141 -05:00 [INF] Order 1006393459, Tracking 1Z1Y26Y00392327862
+2022-06-10 14:22:57.449 -05:00 [INF] Order 1006393459 , Item 33974 Processed succesfully
+2022-06-10 14:22:58.957 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:23:02.632 -05:00 [INF] Insert the tracking number
+2022-06-10 14:23:06.149 -05:00 [INF] Order 1006394207, Tracking 1Z1Y26Y00392251587
+2022-06-10 14:23:07.552 -05:00 [INF] Order 1006394207 , Item 36735 Processed succesfully
+2022-06-10 14:23:08.174 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:23:11.617 -05:00 [INF] Insert the tracking number
+2022-06-10 14:23:14.394 -05:00 [INF] Order 1006394285, Tracking 1Z1Y26Y00392014486
+2022-06-10 14:23:15.464 -05:00 [INF] Order 1006394285 , Item TM-220125 Processed succesfully
+2022-06-10 14:23:15.727 -05:00 [INF] Order 1006394285 , Item TM-220126 Processed succesfully
+2022-06-10 14:23:15.967 -05:00 [INF] Order 1006394285 , Item TM-220124 Processed succesfully
+2022-06-10 14:23:17.072 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:23:25.705 -05:00 [INF] Insert the tracking number
+2022-06-10 14:23:28.835 -05:00 [INF] Order 1006394414, Tracking 1Z1Y26Y00391517382
+2022-06-10 14:23:30.093 -05:00 [INF] Order 1006394414 , Item TM-220124 Processed succesfully
+2022-06-10 14:23:30.302 -05:00 [INF] Order 1006394414 , Item TM-220131 Processed succesfully
+2022-06-10 14:23:30.512 -05:00 [INF] Order 1006394414 , Item TM-219036 Processed succesfully
+2022-06-10 14:23:36.126 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:23:36.820 -05:00 [INF] Insert the tracking number
+2022-06-10 14:23:40.663 -05:00 [INF] Order 1006393992, Tracking 1Z1Y26Y00391404771
+2022-06-10 14:23:42.194 -05:00 [INF] Order 1006393992 , Item TM-220131 Processed succesfully
+2022-06-10 14:23:42.401 -05:00 [INF] Order 1006393992 , Item TM-220126 Processed succesfully
+2022-06-10 14:23:42.610 -05:00 [INF] Order 1006393992 , Item TM-220125 Processed succesfully
+2022-06-10 14:23:42.818 -05:00 [INF] Order 1006393992 , Item TM-220144 Processed succesfully
+2022-06-10 14:23:43.026 -05:00 [INF] Order 1006393992 , Item TM-220123 Processed succesfully
+2022-06-10 14:23:43.234 -05:00 [INF] Order 1006393992 , Item TM-220146 Processed succesfully
+2022-06-10 14:23:43.442 -05:00 [INF] Order 1006393992 , Item TM-220145 Processed succesfully
+2022-06-10 14:23:43.650 -05:00 [INF] Order 1006393992 , Item TM-220129 Processed succesfully
+2022-06-10 14:28:57.019 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:29:05.168 -05:00 [INF] Insert the tracking number
+2022-06-10 14:29:08.900 -05:00 [INF] Order 1006394208, Tracking 1Z1Y26Y00391298575
+2022-06-10 14:29:10.819 -05:00 [INF] Order 1006394208 , Item TM-220128 Processed succesfully
+2022-06-10 14:29:12.297 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:29:16.642 -05:00 [INF] Insert the tracking number
+2022-06-10 14:29:19.812 -05:00 [INF] Order 1006394100, Tracking 1Z1Y26Y00391086062
+2022-06-10 14:29:20.708 -05:00 [INF] Order 1006394100 , Item TM-220130 Processed succesfully
+2022-06-10 14:29:23.702 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:29:27.192 -05:00 [INF] Insert the tracking number
+2022-06-10 14:29:30.823 -05:00 [INF] Order 1006394263, Tracking 1Z1Y26Y00391010704
+2022-06-10 14:29:31.714 -05:00 [INF] Order 1006394263 , Item TM-220125 Processed succesfully
+2022-06-10 14:29:33.281 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:29:36.743 -05:00 [INF] Insert the tracking number
+2022-06-10 14:29:39.892 -05:00 [INF] Order 1006393990, Tracking 1Z1Y26Y00390945788
+2022-06-10 14:29:41.048 -05:00 [INF] Order 1006393990 , Item TM-220096 Processed succesfully
+2022-06-10 14:29:41.262 -05:00 [INF] Order 1006393990 , Item TM-219030 Processed succesfully
+2022-06-10 14:30:08.836 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:30:14.589 -05:00 [INF] Insert the tracking number
+2022-06-10 14:30:18.540 -05:00 [INF] Order 1006393040, Tracking 1Z1Y26Y00390834193
+2022-06-10 14:30:20.887 -05:00 [INF] Order 1006393040 , Item TM-220144 Processed succesfully
+2022-06-10 14:34:39.725 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:34:45.270 -05:00 [INF] Insert the tracking number
+2022-06-10 14:34:48.960 -05:00 [INF] Order 1006394221, Tracking 1Z1Y26Y00390570754
+2022-06-10 14:34:56.868 -05:00 [INF] Order 1006394221 , Item 31855 Processed succesfully
+2022-06-10 14:34:57.087 -05:00 [INF] Order 1006394221 , Item 33774 Processed succesfully
+2022-06-10 14:35:01.099 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:35:02.451 -05:00 [INF] Insert the tracking number
+2022-06-10 14:35:05.786 -05:00 [INF] Order 1006394029, Tracking 1Z1Y26Y00390450722
+2022-06-10 14:35:06.659 -05:00 [INF] Order 1006394029 , Item TM-219003 Processed succesfully
+2022-06-10 14:35:06.871 -05:00 [INF] Order 1006394029 , Item TM-219000 Processed succesfully
+2022-06-10 14:35:07.080 -05:00 [INF] Order 1006394029 , Item TM-219007 Processed succesfully
+2022-06-10 14:35:08.553 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:35:14.833 -05:00 [INF] Insert the tracking number
+2022-06-10 14:35:18.521 -05:00 [INF] Order 1006394500, Tracking 1Z1Y26Y00390240557
+2022-06-10 14:35:19.869 -05:00 [INF] Order 1006394500 , Item 36959 Processed succesfully
+2022-06-10 14:35:20.443 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:35:24.721 -05:00 [INF] Insert the tracking number
+2022-06-10 14:35:27.855 -05:00 [INF] Order 1006394061, Tracking 1Z1Y26Y00390160901
+2022-06-10 14:35:29.118 -05:00 [INF] Order 1006394061 , Item TM-219018 Processed succesfully
+2022-06-10 14:35:29.334 -05:00 [INF] Order 1006394061 , Item TM-219022 Processed succesfully
+2022-06-10 14:35:35.978 -05:00 [INF] Insert the orderNumber
+2022-06-10 14:35:40.351 -05:00 [INF] Insert the tracking number
+2022-06-10 14:35:44.510 -05:00 [INF] Order 1006394002, Tracking 1Z1Y26Y00390106149
+2022-06-10 14:35:46.305 -05:00 [INF] Order 1006394002 , Item 24771 Processed succesfully

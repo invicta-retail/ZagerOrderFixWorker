@@ -23,6 +23,6 @@ namespace ZagerOrderFixWorker.Models.Database
         public int CompanyID { get; set; }
         public int ItemID { get; set; }
         public int ShipmentID { get; set; }
-        public string JournalEntry { get; set; }
+        public string Invoice { get; set; }
     }
 }

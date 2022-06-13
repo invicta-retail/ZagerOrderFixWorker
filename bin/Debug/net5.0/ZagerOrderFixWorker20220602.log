@@ -785,3 +785,512 @@
 2022-06-02 16:15:54.538 -05:00 [INF] Order : 1006466377 was updated succesfully for zager
 2022-06-02 16:15:55.107 -05:00 [INF] Order : 1006466564 was updated succesfully for zager
 2022-06-02 16:15:55.611 -05:00 [INF] Completed process
+2022-06-02 17:36:27.897 -05:00 [INF] Processing for 2022-04-01
+2022-06-02 17:36:27.973 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 17:36:27.973 -05:00 [INF] Preparing client for API
+2022-06-02 17:36:28.002 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 17:36:28.002 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-01
+2022-06-02 17:36:31.278 -05:00 [INF] Extraction completed
+2022-06-02 17:38:04.521 -05:00 [INF] Order : 1006466770 was updated succesfully for zager
+2022-06-02 17:38:04.625 -05:00 [INF] Order : 1006466770 was updated succesfully for zager
+2022-06-02 17:38:05.904 -05:00 [INF] Order : 1006466816 was updated succesfully for zager
+2022-06-02 17:38:06.550 -05:00 [INF] Order : 1006466874 was updated succesfully for zager
+2022-06-02 17:38:07.161 -05:00 [INF] Order : 1006466916 was updated succesfully for zager
+2022-06-02 17:38:07.289 -05:00 [INF] Order : 1006466916 was updated succesfully for zager
+2022-06-02 17:38:08.737 -05:00 [INF] Order : 1006455141 was updated succesfully for zager
+2022-06-02 17:38:09.327 -05:00 [INF] Order : 1006467052 was updated succesfully for zager
+2022-06-02 17:38:09.935 -05:00 [INF] Order : 1006467078 was updated succesfully for zager
+2022-06-02 17:38:10.530 -05:00 [INF] Order : 1006467145 was updated succesfully for zager
+2022-06-02 17:38:10.633 -05:00 [INF] Order : 1006467145 was updated succesfully for zager
+2022-06-02 17:38:10.985 -05:00 [INF] Order : 1006467149 was updated succesfully for zager
+2022-06-02 17:38:11.333 -05:00 [INF] Order : 1006467187 was updated succesfully for zager
+2022-06-02 17:38:11.680 -05:00 [INF] Order : 1006467245 was updated succesfully for zager
+2022-06-02 17:38:12.417 -05:00 [INF] Order : 1006467405 was updated succesfully for zager
+2022-06-02 17:38:12.764 -05:00 [INF] Order : 1006467423 was updated succesfully for zager
+2022-06-02 17:38:13.507 -05:00 [INF] Order : 1006467530 was updated succesfully for zager
+2022-06-02 17:38:13.853 -05:00 [INF] Order : 1006467532 was updated succesfully for zager
+2022-06-02 17:38:14.201 -05:00 [INF] Order : 1006467548 was updated succesfully for zager
+2022-06-02 17:38:14.680 -05:00 [INF] Order : 1006467574 was updated succesfully for zager
+2022-06-02 17:38:15.160 -05:00 [INF] Order : 1006467678 was updated succesfully for zager
+2022-06-02 17:38:15.639 -05:00 [INF] Order : 1006467688 was updated succesfully for zager
+2022-06-02 17:38:15.890 -05:00 [INF] Processing for 2022-04-02
+2022-06-02 17:38:15.890 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 17:38:15.891 -05:00 [INF] Preparing client for API
+2022-06-02 17:38:15.891 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 17:38:15.891 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-02
+2022-06-02 17:38:18.793 -05:00 [INF] Extraction completed
+2022-06-02 17:39:56.853 -05:00 [INF] Order : 1006467748 was updated succesfully for zager
+2022-06-02 17:39:58.086 -05:00 [INF] Order : 1006467835 was updated succesfully for zager
+2022-06-02 17:39:58.700 -05:00 [INF] Order : 1006467937 was updated succesfully for zager
+2022-06-02 17:39:59.051 -05:00 [INF] Order : 1006467942 was updated succesfully for zager
+2022-06-02 17:39:59.051 -05:00 [INF] Processing for 2022-04-03
+2022-06-02 17:39:59.052 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 17:39:59.053 -05:00 [INF] Preparing client for API
+2022-06-02 17:39:59.053 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 17:39:59.054 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-03
+2022-06-02 17:40:01.541 -05:00 [INF] Extraction completed
+2022-06-02 17:41:41.909 -05:00 [INF] Processing for 2022-04-04
+2022-06-02 17:41:41.910 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 17:41:41.911 -05:00 [INF] Preparing client for API
+2022-06-02 17:41:41.913 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 17:41:41.914 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-04
+2022-06-02 17:41:44.688 -05:00 [INF] Extraction completed
+2022-06-02 17:43:07.464 -05:00 [INF] Order : 1006467944 was updated succesfully for zager
+2022-06-02 17:43:07.837 -05:00 [INF] Order : 1006467945 was updated succesfully for zager
+2022-06-02 17:43:08.198 -05:00 [INF] Order : 1006467962 was updated succesfully for zager
+2022-06-02 17:43:08.623 -05:00 [INF] Order : 1006467997 was updated succesfully for zager
+2022-06-02 17:43:09.148 -05:00 [INF] Order : 1006461296 was updated succesfully for zager
+2022-06-02 17:43:09.957 -05:00 [INF] Order : 1006468036 was updated succesfully for zager
+2022-06-02 17:43:10.073 -05:00 [INF] Order : 1006468036 was updated succesfully for zager
+2022-06-02 17:43:10.177 -05:00 [INF] Order : 1006468036 was updated succesfully for zager
+2022-06-02 17:43:10.281 -05:00 [INF] Order : 1006468036 was updated succesfully for zager
+2022-06-02 17:43:10.797 -05:00 [INF] Order : 1006468144 was updated succesfully for zager
+2022-06-02 17:43:11.714 -05:00 [INF] Order : 1006468231 was updated succesfully for zager
+2022-06-02 17:43:12.066 -05:00 [INF] Order : 1006468373 was updated succesfully for zager
+2022-06-02 17:43:13.698 -05:00 [INF] Order : 1006468556 was updated succesfully for zager
+2022-06-02 17:43:14.049 -05:00 [INF] Order : 1006468610 was updated succesfully for zager
+2022-06-02 17:43:14.796 -05:00 [INF] Order : 1006468649 was updated succesfully for zager
+2022-06-02 17:43:15.672 -05:00 [INF] Order : 1006468818 was updated succesfully for zager
+2022-06-02 17:43:20.535 -05:00 [INF] Order : 1006474205 was updated succesfully for zager
+2022-06-02 17:43:20.641 -05:00 [INF] Order : 1006474205 was updated succesfully for zager
+2022-06-02 17:43:20.986 -05:00 [INF] Order : 1006474235 was updated succesfully for zager
+2022-06-02 17:43:21.333 -05:00 [INF] Order : 1006474256 was updated succesfully for zager
+2022-06-02 17:43:21.930 -05:00 [INF] Order : 1006474328 was updated succesfully for zager
+2022-06-02 17:43:22.282 -05:00 [INF] Order : 1006474341 was updated succesfully for zager
+2022-06-02 17:43:22.891 -05:00 [INF] Order : 1006474486 was updated succesfully for zager
+2022-06-02 17:43:23.748 -05:00 [INF] Order : 1006474582 was updated succesfully for zager
+2022-06-02 17:43:24.484 -05:00 [INF] Order : 1006474694 was updated succesfully for zager
+2022-06-02 17:43:25.855 -05:00 [INF] Order : 1006474810 was updated succesfully for zager
+2022-06-02 17:43:26.254 -05:00 [INF] Order : 1006474874 was updated succesfully for zager
+2022-06-02 17:43:26.607 -05:00 [INF] Order : 1006474925 was updated succesfully for zager
+2022-06-02 17:43:29.209 -05:00 [INF] Processing for 2022-04-05
+2022-06-02 17:43:29.209 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 17:43:29.210 -05:00 [INF] Preparing client for API
+2022-06-02 17:43:29.210 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 17:43:29.211 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-05
+2022-06-02 17:43:32.000 -05:00 [INF] Extraction completed
+2022-06-02 17:45:04.517 -05:00 [INF] Order : 1006474097 was updated succesfully for zager
+2022-06-02 17:45:04.877 -05:00 [INF] Order : 1006474835 was updated succesfully for zager
+2022-06-02 17:45:06.751 -05:00 [INF] Order : 1006471149 was updated succesfully for zager
+2022-06-02 17:45:07.603 -05:00 [INF] Order : 1006475952 was updated succesfully for zager
+2022-06-02 17:45:07.956 -05:00 [INF] Order : 1006475963 was updated succesfully for zager
+2022-06-02 17:45:08.433 -05:00 [INF] Order : 1006476026 was updated succesfully for zager
+2022-06-02 17:45:08.781 -05:00 [INF] Order : 1006476060 was updated succesfully for zager
+2022-06-02 17:45:08.886 -05:00 [INF] Order : 1006476060 was updated succesfully for zager
+2022-06-02 17:45:09.235 -05:00 [INF] Order : 1006476072 was updated succesfully for zager
+2022-06-02 17:45:10.482 -05:00 [INF] Order : 1006476203 was updated succesfully for zager
+2022-06-02 17:45:11.718 -05:00 [INF] Order : 1006476300 was updated succesfully for zager
+2022-06-02 17:45:12.331 -05:00 [INF] Order : 1006476347 was updated succesfully for zager
+2022-06-02 17:45:12.947 -05:00 [INF] Order : 1006476506 was updated succesfully for zager
+2022-06-02 17:45:13.299 -05:00 [INF] Order : 1006476511 was updated succesfully for zager
+2022-06-02 17:45:13.403 -05:00 [INF] Order : 1006476511 was updated succesfully for zager
+2022-06-02 17:45:13.507 -05:00 [INF] Order : 1006476511 was updated succesfully for zager
+2022-06-02 17:45:14.257 -05:00 [INF] Order : 1006476576 was updated succesfully for zager
+2022-06-02 17:45:14.876 -05:00 [INF] Order : 1006476623 was updated succesfully for zager
+2022-06-02 17:45:14.876 -05:00 [INF] Processing for 2022-04-06
+2022-06-02 17:45:14.878 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 17:45:14.879 -05:00 [INF] Preparing client for API
+2022-06-02 17:45:14.881 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 17:45:14.881 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-06
+2022-06-02 17:45:17.689 -05:00 [INF] Extraction completed
+2022-06-02 17:46:55.182 -05:00 [INF] Order : 1006476777 was updated succesfully for zager
+2022-06-02 17:46:56.565 -05:00 [INF] Order : 1006476935 was updated succesfully for zager
+2022-06-02 17:46:57.172 -05:00 [INF] Order : 1006476944 was updated succesfully for zager
+2022-06-02 17:46:57.522 -05:00 [INF] Order : 1006476946 was updated succesfully for zager
+2022-06-02 17:46:58.016 -05:00 [INF] Order : 1006477046 was updated succesfully for zager
+2022-06-02 17:46:58.368 -05:00 [INF] Order : 1006477068 was updated succesfully for zager
+2022-06-02 17:46:58.858 -05:00 [INF] Order : 1006477155 was updated succesfully for zager
+2022-06-02 17:46:59.338 -05:00 [INF] Order : 1006477246 was updated succesfully for zager
+2022-06-02 17:46:59.442 -05:00 [INF] Order : 1006477246 was updated succesfully for zager
+2022-06-02 17:46:59.545 -05:00 [INF] Order : 1006477246 was updated succesfully for zager
+2022-06-02 17:47:00.036 -05:00 [INF] Order : 1006476477 was updated succesfully for zager
+2022-06-02 17:47:00.779 -05:00 [INF] Order : 1006477428 was updated succesfully for zager
+2022-06-02 17:47:00.882 -05:00 [INF] Order : 1006477428 was updated succesfully for zager
+2022-06-02 17:47:00.986 -05:00 [INF] Order : 1006477428 was updated succesfully for zager
+2022-06-02 17:47:01.090 -05:00 [INF] Order : 1006477428 was updated succesfully for zager
+2022-06-02 17:47:01.193 -05:00 [INF] Order : 1006477428 was updated succesfully for zager
+2022-06-02 17:47:01.543 -05:00 [INF] Order : 1006477434 was updated succesfully for zager
+2022-06-02 17:47:02.144 -05:00 [INF] Order : 1006477466 was updated succesfully for zager
+2022-06-02 17:47:02.496 -05:00 [INF] Order : 1006477472 was updated succesfully for zager
+2022-06-02 17:47:03.353 -05:00 [INF] Order : 1006475689 was updated succesfully for zager
+2022-06-02 17:47:04.350 -05:00 [INF] Order : 1006477894 was updated succesfully for zager
+2022-06-02 17:47:05.468 -05:00 [INF] Order : 1006478101 was updated succesfully for zager
+2022-06-02 17:47:05.858 -05:00 [INF] Processing for 2022-04-07
+2022-06-02 17:47:05.858 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 17:47:05.859 -05:00 [INF] Preparing client for API
+2022-06-02 17:47:05.861 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 17:47:05.862 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-07
+2022-06-02 17:47:08.550 -05:00 [INF] Extraction completed
+2022-06-02 17:48:42.594 -05:00 [INF] Order : 1006478171 was updated succesfully for zager
+2022-06-02 17:48:43.354 -05:00 [INF] Order : 1006478326 was updated succesfully for zager
+2022-06-02 17:48:44.517 -05:00 [INF] Order : 1006463664 was updated succesfully for zager
+2022-06-02 17:48:45.001 -05:00 [INF] Order : 1006478458 was updated succesfully for zager
+2022-06-02 17:48:45.423 -05:00 [INF] Order : 1006478588 was updated succesfully for zager
+2022-06-02 17:48:45.528 -05:00 [INF] Order : 1006478588 was updated succesfully for zager
+2022-06-02 17:48:46.111 -05:00 [INF] Order : 1006478618 was updated succesfully for zager
+2022-06-02 17:48:47.638 -05:00 [INF] Order : 1006478735 was updated succesfully for zager
+2022-06-02 17:48:47.986 -05:00 [INF] Order : 1006478739 was updated succesfully for zager
+2022-06-02 17:48:48.593 -05:00 [INF] Order : 1006478942 was updated succesfully for zager
+2022-06-02 17:48:49.184 -05:00 [INF] Order : 1006479091 was updated succesfully for zager
+2022-06-02 17:48:49.287 -05:00 [INF] Order : 1006479091 was updated succesfully for zager
+2022-06-02 17:48:49.393 -05:00 [INF] Order : 1006479091 was updated succesfully for zager
+2022-06-02 17:48:50.021 -05:00 [INF] Order : 1006479135 was updated succesfully for zager
+2022-06-02 17:48:50.653 -05:00 [INF] Order : 1006479214 was updated succesfully for zager
+2022-06-02 17:48:51.244 -05:00 [INF] Order : 1006479293 was updated succesfully for zager
+2022-06-02 17:48:51.850 -05:00 [INF] Order : 1006479370 was updated succesfully for zager
+2022-06-02 17:48:52.196 -05:00 [INF] Order : 1006479395 was updated succesfully for zager
+2022-06-02 17:48:52.719 -05:00 [INF] Processing for 2022-04-08
+2022-06-02 17:48:52.720 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 17:48:52.721 -05:00 [INF] Preparing client for API
+2022-06-02 17:48:52.722 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 17:48:52.722 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-08
+2022-06-02 17:48:55.110 -05:00 [INF] Extraction completed
+2022-06-02 17:50:24.645 -05:00 [INF] Order : 1006479603 was updated succesfully for zager
+2022-06-02 17:50:24.993 -05:00 [INF] Order : 1006479619 was updated succesfully for zager
+2022-06-02 17:50:25.721 -05:00 [INF] Order : 1006479691 was updated succesfully for zager
+2022-06-02 17:50:26.330 -05:00 [INF] Order : 1006479723 was updated succesfully for zager
+2022-06-02 17:50:27.313 -05:00 [INF] Order : 1006479772 was updated succesfully for zager
+2022-06-02 17:50:27.418 -05:00 [INF] Order : 1006479772 was updated succesfully for zager
+2022-06-02 17:50:27.900 -05:00 [INF] Order : 1006479787 was updated succesfully for zager
+2022-06-02 17:50:28.504 -05:00 [INF] Order : 1006479870 was updated succesfully for zager
+2022-06-02 17:50:29.241 -05:00 [INF] Order : 1006479967 was updated succesfully for zager
+2022-06-02 17:50:29.605 -05:00 [INF] Order : 1006480029 was updated succesfully for zager
+2022-06-02 17:50:30.088 -05:00 [INF] Order : 1006479898 was updated succesfully for zager
+2022-06-02 17:50:30.192 -05:00 [INF] Order : 1006479898 was updated succesfully for zager
+2022-06-02 17:50:32.358 -05:00 [INF] Order : 1006480368 was updated succesfully for zager
+2022-06-02 17:50:32.708 -05:00 [INF] Order : 1006480369 was updated succesfully for zager
+2022-06-02 17:50:38.158 -05:00 [INF] Processing for 2022-04-09
+2022-06-02 17:50:38.158 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 17:50:38.159 -05:00 [INF] Preparing client for API
+2022-06-02 17:50:38.159 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 17:50:38.162 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-09
+2022-06-02 17:50:40.447 -05:00 [INF] Extraction completed
+2022-06-02 17:52:21.361 -05:00 [INF] Processing for 2022-04-10
+2022-06-02 17:52:21.362 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 17:52:21.363 -05:00 [INF] Preparing client for API
+2022-06-02 17:52:21.365 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 17:52:21.365 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-10
+2022-06-02 17:52:23.927 -05:00 [INF] Extraction completed
+2022-06-02 17:54:04.857 -05:00 [INF] Processing for 2022-04-11
+2022-06-02 17:54:04.857 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 17:54:04.858 -05:00 [INF] Preparing client for API
+2022-06-02 17:54:04.858 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 17:54:04.859 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-11
+2022-06-02 17:54:07.271 -05:00 [INF] Extraction completed
+2022-06-02 17:55:30.943 -05:00 [INF] Order : 1006482946 was updated succesfully for zager
+2022-06-02 17:55:34.023 -05:00 [INF] Order : 1006483473 was updated succesfully for zager
+2022-06-02 17:55:35.517 -05:00 [INF] Order : 1006483759 was updated succesfully for zager
+2022-06-02 17:55:35.873 -05:00 [INF] Order : 1006483790 was updated succesfully for zager
+2022-06-02 17:55:36.605 -05:00 [INF] Order : 1006483900 was updated succesfully for zager
+2022-06-02 17:55:36.959 -05:00 [INF] Order : 1006483922 was updated succesfully for zager
+2022-06-02 17:55:37.710 -05:00 [INF] Order : 1006484001 was updated succesfully for zager
+2022-06-02 17:55:38.063 -05:00 [INF] Order : 1006484022 was updated succesfully for zager
+2022-06-02 17:55:38.663 -05:00 [INF] Order : 1006484044 was updated succesfully for zager
+2022-06-02 17:55:39.019 -05:00 [INF] Order : 1006484086 was updated succesfully for zager
+2022-06-02 17:55:39.430 -05:00 [INF] Order : 1006484159 was updated succesfully for zager
+2022-06-02 17:55:39.785 -05:00 [INF] Order : 1006484167 was updated succesfully for zager
+2022-06-02 17:55:42.124 -05:00 [INF] Order : 1006484246 was updated succesfully for zager
+2022-06-02 17:55:42.472 -05:00 [INF] Order : 1006484405 was updated succesfully for zager
+2022-06-02 17:55:44.209 -05:00 [INF] Order : 1006484683 was updated succesfully for zager
+2022-06-02 17:55:44.561 -05:00 [INF] Order : 1006484687 was updated succesfully for zager
+2022-06-02 17:55:45.895 -05:00 [INF] Order : 1006484847 was updated succesfully for zager
+2022-06-02 17:55:46.293 -05:00 [INF] Order : 1006484855 was updated succesfully for zager
+2022-06-02 17:55:47.524 -05:00 [INF] Order : 1006484972 was updated succesfully for zager
+2022-06-02 17:55:48.294 -05:00 [INF] Order : 1006485023 was updated succesfully for zager
+2022-06-02 17:55:48.398 -05:00 [INF] Order : 1006485023 was updated succesfully for zager
+2022-06-02 17:55:49.334 -05:00 [INF] Order : 1006485130 was updated succesfully for zager
+2022-06-02 17:55:49.708 -05:00 [INF] Order : 1006485222 was updated succesfully for zager
+2022-06-02 17:55:50.220 -05:00 [INF] Processing for 2022-04-12
+2022-06-02 17:55:50.220 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 17:55:50.221 -05:00 [INF] Preparing client for API
+2022-06-02 17:55:50.223 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 17:55:50.223 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-12
+2022-06-02 17:55:52.485 -05:00 [INF] Extraction completed
+2022-06-02 17:57:29.063 -05:00 [INF] Order : 1006485508 was updated succesfully for zager
+2022-06-02 17:57:29.417 -05:00 [INF] Order : 1006485534 was updated succesfully for zager
+2022-06-02 17:57:29.900 -05:00 [INF] Order : 1006455508 was updated succesfully for zager
+2022-06-02 17:57:30.746 -05:00 [INF] Order : 1006485648 was updated succesfully for zager
+2022-06-02 17:57:31.099 -05:00 [INF] Order : 1006485697 was updated succesfully for zager
+2022-06-02 17:57:31.578 -05:00 [INF] Order : 1006485742 was updated succesfully for zager
+2022-06-02 17:57:33.077 -05:00 [INF] Order : 1006485933 was updated succesfully for zager
+2022-06-02 17:57:33.220 -05:00 [INF] Processing for 2022-04-13
+2022-06-02 17:57:33.220 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 17:57:33.221 -05:00 [INF] Preparing client for API
+2022-06-02 17:57:33.221 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 17:57:33.223 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-13
+2022-06-02 17:57:35.702 -05:00 [INF] Extraction completed
+2022-06-02 17:59:02.533 -05:00 [INF] Order : 1006486003 was updated succesfully for zager
+2022-06-02 17:59:03.021 -05:00 [INF] Order : 1006486024 was updated succesfully for zager
+2022-06-02 17:59:03.374 -05:00 [INF] Order : 1006486086 was updated succesfully for zager
+2022-06-02 17:59:04.121 -05:00 [INF] Order : 1006486142 was updated succesfully for zager
+2022-06-02 17:59:04.610 -05:00 [INF] Order : 1006486259 was updated succesfully for zager
+2022-06-02 17:59:04.967 -05:00 [INF] Order : 1006486283 was updated succesfully for zager
+2022-06-02 17:59:05.483 -05:00 [INF] Order : 1006486300 was updated succesfully for zager
+2022-06-02 17:59:05.851 -05:00 [INF] Order : 1006486314 was updated succesfully for zager
+2022-06-02 17:59:08.705 -05:00 [INF] Order : 1006486687 was updated succesfully for zager
+2022-06-02 17:59:09.573 -05:00 [INF] Order : 1006486787 was updated succesfully for zager
+2022-06-02 17:59:10.063 -05:00 [INF] Order : 1006486868 was updated succesfully for zager
+2022-06-02 17:59:10.556 -05:00 [INF] Order : 1006487012 was updated succesfully for zager
+2022-06-02 17:59:11.433 -05:00 [INF] Order : 1006486269 was updated succesfully for zager
+2022-06-02 17:59:11.782 -05:00 [INF] Order : 1006487175 was updated succesfully for zager
+2022-06-02 17:59:12.891 -05:00 [INF] Order : 1006487297 was updated succesfully for zager
+2022-06-02 17:59:14.664 -05:00 [INF] Processing for 2022-04-14
+2022-06-02 17:59:14.664 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 17:59:14.665 -05:00 [INF] Preparing client for API
+2022-06-02 17:59:14.666 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 17:59:14.667 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-14
+2022-06-02 17:59:17.093 -05:00 [INF] Extraction completed
+2022-06-02 18:00:49.572 -05:00 [INF] Order : 1006487772 was updated succesfully for zager
+2022-06-02 18:00:50.447 -05:00 [INF] Order : 1006487879 was updated succesfully for zager
+2022-06-02 18:00:50.932 -05:00 [INF] Order : 1006488000 was updated succesfully for zager
+2022-06-02 18:00:51.281 -05:00 [INF] Order : 1006488042 was updated succesfully for zager
+2022-06-02 18:00:52.396 -05:00 [INF] Order : 1006488188 was updated succesfully for zager
+2022-06-02 18:00:53.127 -05:00 [INF] Order : 1006488229 was updated succesfully for zager
+2022-06-02 18:00:53.719 -05:00 [INF] Order : 1006488299 was updated succesfully for zager
+2022-06-02 18:00:53.827 -05:00 [INF] Order : 1006488299 was updated succesfully for zager
+2022-06-02 18:00:54.178 -05:00 [INF] Order : 1006488375 was updated succesfully for zager
+2022-06-02 18:00:55.546 -05:00 [INF] Order : 1006488582 was updated succesfully for zager
+2022-06-02 18:00:56.287 -05:00 [INF] Order : 1006488701 was updated succesfully for zager
+2022-06-02 18:00:56.417 -05:00 [INF] Processing for 2022-04-15
+2022-06-02 18:00:56.417 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 18:00:56.418 -05:00 [INF] Preparing client for API
+2022-06-02 18:00:56.420 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 18:00:56.421 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-15
+2022-06-02 18:00:59.108 -05:00 [INF] Extraction completed
+2022-06-02 18:02:38.056 -05:00 [INF] Processing for 2022-04-16
+2022-06-02 18:02:38.056 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 18:02:38.057 -05:00 [INF] Preparing client for API
+2022-06-02 18:02:38.057 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 18:02:38.058 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-16
+2022-06-02 18:02:41.013 -05:00 [INF] Extraction completed
+2022-06-02 18:04:21.017 -05:00 [INF] Processing for 2022-04-17
+2022-06-02 18:04:21.017 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 18:04:21.018 -05:00 [INF] Preparing client for API
+2022-06-02 18:04:21.019 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 18:04:21.019 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-17
+2022-06-02 18:04:23.150 -05:00 [INF] Extraction completed
+2022-06-02 18:06:01.875 -05:00 [INF] Processing for 2022-04-18
+2022-06-02 18:06:01.875 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 18:06:01.876 -05:00 [INF] Preparing client for API
+2022-06-02 18:06:01.876 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 18:06:01.877 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-18
+2022-06-02 18:06:04.470 -05:00 [INF] Extraction completed
+2022-06-02 18:07:42.397 -05:00 [INF] Processing for 2022-04-19
+2022-06-02 18:07:42.397 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 18:07:42.398 -05:00 [INF] Preparing client for API
+2022-06-02 18:07:42.399 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 18:07:42.399 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-19
+2022-06-02 18:07:45.129 -05:00 [INF] Extraction completed
+2022-06-02 18:09:11.670 -05:00 [INF] Order : 1006488782 was updated succesfully for zager
+2022-06-02 18:09:12.020 -05:00 [INF] Order : 1006488806 was updated succesfully for zager
+2022-06-02 18:09:12.371 -05:00 [INF] Order : 1006488894 was updated succesfully for zager
+2022-06-02 18:09:12.850 -05:00 [INF] Order : 1006489064 was updated succesfully for zager
+2022-06-02 18:09:22.157 -05:00 [INF] Processing for 2022-04-20
+2022-06-02 18:09:22.158 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 18:09:22.159 -05:00 [INF] Preparing client for API
+2022-06-02 18:09:22.161 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 18:09:22.161 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-20
+2022-06-02 18:09:24.501 -05:00 [INF] Extraction completed
+2022-06-02 18:11:01.999 -05:00 [INF] Processing for 2022-04-21
+2022-06-02 18:11:02.000 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 18:11:02.001 -05:00 [INF] Preparing client for API
+2022-06-02 18:11:02.002 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 18:11:02.002 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-21
+2022-06-02 18:11:04.647 -05:00 [INF] Extraction completed
+2022-06-02 18:12:40.664 -05:00 [INF] Order : 1006490779 was updated succesfully for zager
+2022-06-02 18:12:41.012 -05:00 [INF] Order : 1006491436 was updated succesfully for zager
+2022-06-02 18:12:41.361 -05:00 [INF] Order : 1006491493 was updated succesfully for zager
+2022-06-02 18:12:42.204 -05:00 [INF] Order : 1006491620 was updated succesfully for zager
+2022-06-02 18:12:42.682 -05:00 [INF] Order : 1006491667 was updated succesfully for zager
+2022-06-02 18:12:43.648 -05:00 [INF] Order : 1006491699 was updated succesfully for zager
+2022-06-02 18:12:43.994 -05:00 [INF] Order : 1006491717 was updated succesfully for zager
+2022-06-02 18:12:44.342 -05:00 [INF] Order : 1006491723 was updated succesfully for zager
+2022-06-02 18:12:44.473 -05:00 [INF] Processing for 2022-04-22
+2022-06-02 18:12:44.473 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 18:12:44.475 -05:00 [INF] Preparing client for API
+2022-06-02 18:12:44.475 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 18:12:44.475 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-22
+2022-06-02 18:12:46.824 -05:00 [INF] Extraction completed
+2022-06-02 18:14:24.313 -05:00 [INF] Processing for 2022-04-23
+2022-06-02 18:14:24.313 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 18:14:24.314 -05:00 [INF] Preparing client for API
+2022-06-02 18:14:24.314 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 18:14:24.315 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-23
+2022-06-02 18:14:26.472 -05:00 [INF] Extraction completed
+2022-06-02 18:16:04.761 -05:00 [INF] Processing for 2022-04-24
+2022-06-02 18:16:04.761 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 18:16:04.762 -05:00 [INF] Preparing client for API
+2022-06-02 18:16:04.763 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 18:16:04.763 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-24
+2022-06-02 18:16:06.997 -05:00 [INF] Extraction completed
+2022-06-02 18:17:45.369 -05:00 [INF] Processing for 2022-04-25
+2022-06-02 18:17:45.369 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 18:17:45.371 -05:00 [INF] Preparing client for API
+2022-06-02 18:17:45.371 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 18:17:45.371 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-25
+2022-06-02 18:17:47.663 -05:00 [INF] Extraction completed
+2022-06-02 18:18:53.014 -05:00 [INF] Order : 1006491767 was updated succesfully for zager
+2022-06-02 18:18:53.632 -05:00 [INF] Order : 1006491784 was updated succesfully for zager
+2022-06-02 18:18:54.109 -05:00 [INF] Order : 1006491803 was updated succesfully for zager
+2022-06-02 18:18:54.459 -05:00 [INF] Order : 1006491807 was updated succesfully for zager
+2022-06-02 18:18:54.809 -05:00 [INF] Order : 1006491839 was updated succesfully for zager
+2022-06-02 18:18:55.158 -05:00 [INF] Order : 1006491905 was updated succesfully for zager
+2022-06-02 18:18:56.558 -05:00 [INF] Order : 1006492119 was updated succesfully for zager
+2022-06-02 18:18:56.661 -05:00 [INF] Order : 1006492119 was updated succesfully for zager
+2022-06-02 18:18:57.645 -05:00 [INF] Order : 1006492160 was updated succesfully for zager
+2022-06-02 18:18:57.749 -05:00 [INF] Order : 1006492160 was updated succesfully for zager
+2022-06-02 18:18:58.099 -05:00 [INF] Order : 1006492162 was updated succesfully for zager
+2022-06-02 18:18:58.453 -05:00 [INF] Order : 1006492171 was updated succesfully for zager
+2022-06-02 18:18:59.063 -05:00 [INF] Order : 1006492214 was updated succesfully for zager
+2022-06-02 18:18:59.542 -05:00 [INF] Order : 1006492228 was updated succesfully for zager
+2022-06-02 18:18:59.892 -05:00 [INF] Order : 1006492245 was updated succesfully for zager
+2022-06-02 18:19:00.380 -05:00 [INF] Order : 1006492280 was updated succesfully for zager
+2022-06-02 18:19:00.731 -05:00 [INF] Order : 1006492287 was updated succesfully for zager
+2022-06-02 18:19:01.212 -05:00 [INF] Order : 1006492364 was updated succesfully for zager
+2022-06-02 18:19:03.852 -05:00 [INF] Order : 1006492532 was updated succesfully for zager
+2022-06-02 18:19:04.468 -05:00 [INF] Order : 1006492675 was updated succesfully for zager
+2022-06-02 18:19:05.198 -05:00 [INF] Order : 1006492746 was updated succesfully for zager
+2022-06-02 18:19:05.750 -05:00 [INF] Order : 1006492772 was updated succesfully for zager
+2022-06-02 18:19:06.103 -05:00 [INF] Order : 1006492811 was updated succesfully for zager
+2022-06-02 18:19:06.207 -05:00 [INF] Order : 1006492811 was updated succesfully for zager
+2022-06-02 18:19:06.311 -05:00 [INF] Order : 1006492811 was updated succesfully for zager
+2022-06-02 18:19:06.415 -05:00 [INF] Order : 1006492811 was updated succesfully for zager
+2022-06-02 18:19:06.518 -05:00 [INF] Order : 1006492811 was updated succesfully for zager
+2022-06-02 18:19:07.277 -05:00 [INF] Order : 1006492919 was updated succesfully for zager
+2022-06-02 18:19:07.646 -05:00 [INF] Order : 1006492924 was updated succesfully for zager
+2022-06-02 18:19:09.754 -05:00 [INF] Order : 1006493000 was updated succesfully for zager
+2022-06-02 18:19:10.119 -05:00 [INF] Order : 1006493003 was updated succesfully for zager
+2022-06-02 18:19:11.738 -05:00 [INF] Order : 1006488413 was updated succesfully for zager
+2022-06-02 18:19:12.222 -05:00 [INF] Order : 1006492999 was updated succesfully for zager
+2022-06-02 18:19:12.573 -05:00 [INF] Order : 1006493255 was updated succesfully for zager
+2022-06-02 18:19:13.057 -05:00 [INF] Order : 1006493302 was updated succesfully for zager
+2022-06-02 18:19:13.411 -05:00 [INF] Order : 1006493338 was updated succesfully for zager
+2022-06-02 18:19:13.517 -05:00 [INF] Order : 1006493338 was updated succesfully for zager
+2022-06-02 18:19:13.870 -05:00 [INF] Order : 1006493444 was updated succesfully for zager
+2022-06-02 18:19:14.613 -05:00 [INF] Order : 1006493690 was updated succesfully for zager
+2022-06-02 18:19:14.964 -05:00 [INF] Order : 1006493715 was updated succesfully for zager
+2022-06-02 18:19:15.320 -05:00 [INF] Order : 1006493716 was updated succesfully for zager
+2022-06-02 18:19:15.675 -05:00 [INF] Order : 1006493749 was updated succesfully for zager
+2022-06-02 18:19:16.574 -05:00 [INF] Order : 1006493908 was updated succesfully for zager
+2022-06-02 18:19:17.054 -05:00 [INF] Order : 1006494012 was updated succesfully for zager
+2022-06-02 18:19:17.533 -05:00 [INF] Order : 1006494074 was updated succesfully for zager
+2022-06-02 18:19:17.881 -05:00 [INF] Order : 1006494169 was updated succesfully for zager
+2022-06-02 18:19:18.228 -05:00 [INF] Order : 1006494220 was updated succesfully for zager
+2022-06-02 18:19:19.359 -05:00 [INF] Order : 1006494435 was updated succesfully for zager
+2022-06-02 18:19:19.837 -05:00 [INF] Order : 1006494466 was updated succesfully for zager
+2022-06-02 18:19:20.315 -05:00 [INF] Order : 1006494499 was updated succesfully for zager
+2022-06-02 18:19:20.419 -05:00 [INF] Order : 1006494499 was updated succesfully for zager
+2022-06-02 18:19:21.286 -05:00 [INF] Order : 1006494576 was updated succesfully for zager
+2022-06-02 18:19:21.390 -05:00 [INF] Order : 1006494576 was updated succesfully for zager
+2022-06-02 18:19:21.495 -05:00 [INF] Order : 1006494576 was updated succesfully for zager
+2022-06-02 18:19:21.890 -05:00 [INF] Order : 1006494628 was updated succesfully for zager
+2022-06-02 18:19:21.995 -05:00 [INF] Order : 1006494628 was updated succesfully for zager
+2022-06-02 18:19:23.479 -05:00 [INF] Order : 1006494750 was updated succesfully for zager
+2022-06-02 18:19:23.958 -05:00 [INF] Order : 1006494851 was updated succesfully for zager
+2022-06-02 18:19:24.807 -05:00 [INF] Order : 1006495105 was updated succesfully for zager
+2022-06-02 18:19:25.158 -05:00 [INF] Order : 1006495172 was updated succesfully for zager
+2022-06-02 18:19:25.505 -05:00 [INF] Order : 1006495173 was updated succesfully for zager
+2022-06-02 18:19:25.852 -05:00 [INF] Order : 1006495241 was updated succesfully for zager
+2022-06-02 18:19:26.467 -05:00 [INF] Order : 1006495304 was updated succesfully for zager
+2022-06-02 18:19:27.077 -05:00 [INF] Order : 1006495526 was updated succesfully for zager
+2022-06-02 18:19:27.824 -05:00 [INF] Order : 1006495660 was updated succesfully for zager
+2022-06-02 18:19:27.928 -05:00 [INF] Order : 1006495660 was updated succesfully for zager
+2022-06-02 18:19:29.443 -05:00 [INF] Order : 1006496084 was updated succesfully for zager
+2022-06-02 18:19:29.546 -05:00 [INF] Order : 1006496084 was updated succesfully for zager
+2022-06-02 18:19:29.650 -05:00 [INF] Order : 1006496084 was updated succesfully for zager
+2022-06-02 18:19:30.131 -05:00 [INF] Order : 1006496180 was updated succesfully for zager
+2022-06-02 18:19:31.008 -05:00 [INF] Order : 1006496455 was updated succesfully for zager
+2022-06-02 18:19:31.359 -05:00 [INF] Order : 1006496488 was updated succesfully for zager
+2022-06-02 18:19:31.490 -05:00 [INF] Processing for 2022-04-26
+2022-06-02 18:19:31.490 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 18:19:31.491 -05:00 [INF] Preparing client for API
+2022-06-02 18:19:31.491 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 18:19:31.492 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-26
+2022-06-02 18:19:34.252 -05:00 [INF] Extraction completed
+2022-06-02 18:21:01.074 -05:00 [INF] Order : 1006496503 was updated succesfully for zager
+2022-06-02 18:21:01.425 -05:00 [INF] Order : 1006496585 was updated succesfully for zager
+2022-06-02 18:21:01.783 -05:00 [INF] Order : 1006496591 was updated succesfully for zager
+2022-06-02 18:21:02.269 -05:00 [INF] Order : 1006496613 was updated succesfully for zager
+2022-06-02 18:21:02.372 -05:00 [INF] Order : 1006496613 was updated succesfully for zager
+2022-06-02 18:21:02.477 -05:00 [INF] Order : 1006496613 was updated succesfully for zager
+2022-06-02 18:21:02.828 -05:00 [INF] Order : 1006496614 was updated succesfully for zager
+2022-06-02 18:21:02.932 -05:00 [INF] Order : 1006496614 was updated succesfully for zager
+2022-06-02 18:21:03.035 -05:00 [INF] Order : 1006496614 was updated succesfully for zager
+2022-06-02 18:21:03.520 -05:00 [INF] Order : 1006496697 was updated succesfully for zager
+2022-06-02 18:21:03.879 -05:00 [INF] Order : 1006496701 was updated succesfully for zager
+2022-06-02 18:21:04.737 -05:00 [INF] Order : 1006496925 was updated succesfully for zager
+2022-06-02 18:21:05.225 -05:00 [INF] Order : 1006497006 was updated succesfully for zager
+2022-06-02 18:21:05.840 -05:00 [INF] Order : 1006497085 was updated succesfully for zager
+2022-06-02 18:21:06.328 -05:00 [INF] Order : 1006497131 was updated succesfully for zager
+2022-06-02 18:21:06.813 -05:00 [INF] Order : 1006497140 was updated succesfully for zager
+2022-06-02 18:21:07.806 -05:00 [INF] Order : 1006497243 was updated succesfully for zager
+2022-06-02 18:21:07.910 -05:00 [INF] Order : 1006497243 was updated succesfully for zager
+2022-06-02 18:21:08.265 -05:00 [INF] Order : 1006497301 was updated succesfully for zager
+2022-06-02 18:21:09.694 -05:00 [INF] Order : 1006497737 was updated succesfully for zager
+2022-06-02 18:21:10.196 -05:00 [INF] Order : 1006497811 was updated succesfully for zager
+2022-06-02 18:21:10.547 -05:00 [INF] Order : 1006497823 was updated succesfully for zager
+2022-06-02 18:21:11.920 -05:00 [INF] Order : 1006498047 was updated succesfully for zager
+2022-06-02 18:21:12.276 -05:00 [INF] Order : 1006498054 was updated succesfully for zager
+2022-06-02 18:21:13.146 -05:00 [INF] Processing for 2022-04-27
+2022-06-02 18:21:13.146 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 18:21:13.147 -05:00 [INF] Preparing client for API
+2022-06-02 18:21:13.147 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 18:21:13.149 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-27
+2022-06-02 18:21:15.880 -05:00 [INF] Extraction completed
+2022-06-02 18:22:44.267 -05:00 [INF] Order : 1006498129 was updated succesfully for zager
+2022-06-02 18:22:44.370 -05:00 [INF] Order : 1006498129 was updated succesfully for zager
+2022-06-02 18:22:52.782 -05:00 [INF] Processing for 2022-04-28
+2022-06-02 18:22:52.782 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 18:22:52.784 -05:00 [INF] Preparing client for API
+2022-06-02 18:22:52.784 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 18:22:52.785 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-28
+2022-06-02 18:22:55.359 -05:00 [INF] Extraction completed
+2022-06-02 18:24:28.674 -05:00 [INF] Order : 1006501189 was updated succesfully for zager
+2022-06-02 18:24:28.794 -05:00 [INF] Order : 1006501189 was updated succesfully for zager
+2022-06-02 18:24:29.397 -05:00 [INF] Order : 1006501225 was updated succesfully for zager
+2022-06-02 18:24:29.789 -05:00 [INF] Order : 1006501265 was updated succesfully for zager
+2022-06-02 18:24:30.514 -05:00 [INF] Order : 1006501324 was updated succesfully for zager
+2022-06-02 18:24:32.143 -05:00 [INF] Order : 1006501530 was updated succesfully for zager
+2022-06-02 18:24:32.248 -05:00 [INF] Order : 1006501530 was updated succesfully for zager
+2022-06-02 18:24:32.249 -05:00 [INF] Processing for 2022-04-29
+2022-06-02 18:24:32.252 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 18:24:32.252 -05:00 [INF] Preparing client for API
+2022-06-02 18:24:32.255 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 18:24:32.256 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-29
+2022-06-02 18:24:34.512 -05:00 [INF] Extraction completed
+2022-06-02 18:26:04.921 -05:00 [INF] Order : 1006501532 was updated succesfully for zager
+2022-06-02 18:26:05.269 -05:00 [INF] Order : 1006501642 was updated succesfully for zager
+2022-06-02 18:26:07.158 -05:00 [INF] Order : 1006501913 was updated succesfully for zager
+2022-06-02 18:26:07.749 -05:00 [INF] Order : 1006501998 was updated succesfully for zager
+2022-06-02 18:26:08.354 -05:00 [INF] Order : 1006502180 was updated succesfully for zager
+2022-06-02 18:26:09.207 -05:00 [INF] Order : 1006502320 was updated succesfully for zager
+2022-06-02 18:26:09.554 -05:00 [INF] Order : 1006502362 was updated succesfully for zager
+2022-06-02 18:26:12.062 -05:00 [INF] Processing for 2022-04-30
+2022-06-02 18:26:12.062 -05:00 [INF] Extracting information from ZagerAPI
+2022-06-02 18:26:12.063 -05:00 [INF] Preparing client for API
+2022-06-02 18:26:12.063 -05:00 [INF] Executing GET fulfillment by day
+2022-06-02 18:26:12.064 -05:00 [INF] URL : https://zagerwatch.com/api/webshop_orders/fulfilled/1?modified_at=2022-04-30
+2022-06-02 18:26:14.450 -05:00 [INF] Extraction completed
+2022-06-02 18:27:43.976 -05:00 [INF] Order : 1006373896 was updated succesfully for zager
+2022-06-02 18:27:44.324 -05:00 [INF] Order : 1006502111 was updated succesfully for zager
+2022-06-02 18:27:44.672 -05:00 [INF] Order : 1006502232 was updated succesfully for zager
+2022-06-02 18:27:45.019 -05:00 [INF] Order : 1006502588 was updated succesfully for zager
+2022-06-02 18:27:45.366 -05:00 [INF] Order : 1006503107 was updated succesfully for zager
+2022-06-02 18:27:46.377 -05:00 [INF] Order : 1006503579 was updated succesfully for zager
+2022-06-02 18:27:46.726 -05:00 [INF] Order : 1006503651 was updated succesfully for zager
+2022-06-02 18:27:47.203 -05:00 [INF] Order : 1006503886 was updated succesfully for zager
+2022-06-02 18:27:47.306 -05:00 [INF] Order : 1006503886 was updated succesfully for zager
+2022-06-02 18:27:47.687 -05:00 [INF] Order : 1006503946 was updated succesfully for zager
+2022-06-02 18:27:48.035 -05:00 [INF] Order : 1006504011 was updated succesfully for zager
+2022-06-02 18:27:48.888 -05:00 [INF] Order : 1006504434 was updated succesfully for zager
+2022-06-02 18:27:50.229 -05:00 [INF] Order : 1006506875 was updated succesfully for zager
+2022-06-02 18:27:50.711 -05:00 [INF] Order : 1006502478 was updated succesfully for zager
+2022-06-02 18:27:51.060 -05:00 [INF] Order : 1006507022 was updated succesfully for zager
+2022-06-02 18:27:51.407 -05:00 [INF] Order : 1006507129 was updated succesfully for zager
+2022-06-02 18:27:52.006 -05:00 [INF] Order : 1006507337 was updated succesfully for zager
+2022-06-02 18:27:52.109 -05:00 [INF] Order : 1006507337 was updated succesfully for zager
+2022-06-02 18:27:52.598 -05:00 [INF] Order : 1006507363 was updated succesfully for zager
+2022-06-02 18:27:52.953 -05:00 [INF] Order : 1006507404 was updated succesfully for zager
+2022-06-02 18:27:53.304 -05:00 [INF] Order : 1006507415 was updated succesfully for zager
+2022-06-02 18:27:53.654 -05:00 [INF] Order : 1006507447 was updated succesfully for zager
+2022-06-02 18:27:53.655 -05:00 [INF] Completed process
